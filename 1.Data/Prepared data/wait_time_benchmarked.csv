@@ -1,0 +1,782 @@
+state,medical_procedure,year,%meeting_benchmark,50th_percentile_days,90th_percentile_days,total_cases
+Alberta,CABG,2008,99,7,83,511
+Alberta,CABG,2009,93,17,156,665
+Alberta,CABG,2010,95,15,133,590
+Alberta,CABG,2011,95,15,134,369
+Alberta,Cataract Surgery,2008,71,70,199,8662
+Alberta,Cataract Surgery,2009,61,88,270,9148
+Alberta,Cataract Surgery,2010,48,118,331,8453
+Alberta,Cataract Surgery,2011,59,88,275,10301
+Alberta,Cataract Surgery,2012,69,78,209,10557
+Alberta,Cataract Surgery,2013,66,79,212,10514
+Alberta,Cataract Surgery,2014,71,73,202,11348
+Alberta,Cataract Surgery,2015,64,87,224,11145
+Alberta,Cataract Surgery,2016,58,92,243,11770
+Alberta,Cataract Surgery,2017,55.6,99,260,11389
+Alberta,Cataract Surgery,2018,48.7,116,320,11684
+Alberta,Cataract Surgery,2019,44.3,131,356,13409
+Alberta,Cataract Surgery,2020,34.6,183,396,10424
+Alberta,Cataract Surgery,2021,64.2,73,267,14910
+Alberta,Hip Fracture Repair,2009,80,26,68,1188
+Alberta,Hip Fracture Repair,2010,81,23,69,1190
+Alberta,Hip Fracture Repair,2011,81,24,65,1173
+Alberta,Hip Fracture Repair,2012,80,24,69,1213
+Alberta,Hip Fracture Repair,2013,85,22,60,1300
+Alberta,Hip Fracture Repair,2014,82,23,61,1373
+Alberta,Hip Fracture Repair,2015,86,22,59,1359
+Alberta,Hip Fracture Repair,2016,91,20,47,1422
+Alberta,Hip Fracture Repair,2017,92.3,19,45,1312
+Alberta,Hip Fracture Repair,2018,94,17,41,1399
+Alberta,Hip Fracture Repair,2019,91.3,18,46,1506
+Alberta,Hip Fracture Repair,2020,92.55,18,44,1464
+Alberta,Hip Fracture Repair,2021,92.22,20,45,1504
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2010,73,31,74,832
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2011,74,30,72,1005
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2012,74,30,74,1048
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2013,76,28,69,1122
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2014,75,30,69,1238
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2015,79,27,65,1201
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2016,86,25,51,1261
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2017,88.5,25,50,1183
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2018,90.34,24,48,1273
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2019,86.66,25,52,1349
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2020,87.52,24,50,1354
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2021,86.87,26,51,1356
+Alberta,Hip Replacement,2008,77,103,255,1478
+Alberta,Hip Replacement,2009,81,93,250,1475
+Alberta,Hip Replacement,2010,78,104,268,1481
+Alberta,Hip Replacement,2011,80,101,290,1673
+Alberta,Hip Replacement,2012,84,90,245,1838
+Alberta,Hip Replacement,2013,80,108,252,1865
+Alberta,Hip Replacement,2014,87,90,204,1890
+Alberta,Hip Replacement,2015,83,93,209,1895
+Alberta,Hip Replacement,2016,82,91,218,2043
+Alberta,Hip Replacement,2017,73.2,121,251,2024
+Alberta,Hip Replacement,2018,70.1,129,265,2250
+Alberta,Hip Replacement,2019,63.8,141,273,2320
+Alberta,Hip Replacement,2020,48.9,187,379,1584
+Alberta,Hip Replacement,2021,59.2,155,392,2160
+Alberta,Knee Replacement,2008,72,123,299,2229
+Alberta,Knee Replacement,2009,71,120,352,2233
+Alberta,Knee Replacement,2010,69,128,344,2342
+Alberta,Knee Replacement,2011,70,124,344,2650
+Alberta,Knee Replacement,2012,79,104,301,2850
+Alberta,Knee Replacement,2013,72,127,294,2962
+Alberta,Knee Replacement,2014,81,99,238,2922
+Alberta,Knee Replacement,2015,79,106,237,3108
+Alberta,Knee Replacement,2016,77,113,253,3174
+Alberta,Knee Replacement,2017,66.6,143,280,3035
+Alberta,Knee Replacement,2018,66.2,131,298,3287
+Alberta,Knee Replacement,2019,62.1,148,315,3176
+Alberta,Knee Replacement,2020,38.9,217,423,2082
+Alberta,Knee Replacement,2021,49.2,186,452,2864
+Alberta,Radiation Therapy,2009,74,14,38,3335
+Alberta,Radiation Therapy,2010,94,8,26,3290
+Alberta,Radiation Therapy,2011,98,6,22,3465
+Alberta,Radiation Therapy,2012,97,7,22,3564
+Alberta,Radiation Therapy,2013,98,7,21,3556
+Alberta,Radiation Therapy,2014,97,7,23,3732
+Alberta,Radiation Therapy,2015,98,7,20,3897
+Alberta,Radiation Therapy,2016,99,7,20,4071
+Alberta,Radiation Therapy,2017,99,6,18,4065
+Alberta,Radiation Therapy,2018,99.5,7,19,4240
+Alberta,Radiation Therapy,2019,97.6,9,21,4534
+Alberta,Radiation Therapy,2020,98.7,9,20,4605
+Alberta,Radiation Therapy,2021,98.8,9,20,4791
+British Columbia,CABG,2010,99,19,68,931
+British Columbia,CABG,2011,99,3,35,979
+British Columbia,Cataract Surgery,2008,78,55,171,22035
+British Columbia,Cataract Surgery,2009,77,49,195,23054
+British Columbia,Cataract Surgery,2010,81,54,158,24059
+British Columbia,Cataract Surgery,2011,78,52,178,25272
+British Columbia,Cataract Surgery,2012,85,39,148,23652
+British Columbia,Cataract Surgery,2013,83,41,154,25140
+British Columbia,Cataract Surgery,2014,70,60,212,25397
+British Columbia,Cataract Surgery,2015,64,72,249,26757
+British Columbia,Cataract Surgery,2016,66,74,243,28155
+British Columbia,Cataract Surgery,2017,62.99,78,251,29701
+British Columbia,Cataract Surgery,2018,64.1,70,253,31978
+British Columbia,Cataract Surgery,2019,68.7,66,231,32766
+British Columbia,Cataract Surgery,2020,52.4,105,306,23197
+British Columbia,Cataract Surgery,2021,76,47,217,38541
+British Columbia,Hip Fracture Repair,2009,83,23,64,1777
+British Columbia,Hip Fracture Repair,2010,80,25,69,2031
+British Columbia,Hip Fracture Repair,2011,76,26,71,1865
+British Columbia,Hip Fracture Repair,2012,81,25,66,1961
+British Columbia,Hip Fracture Repair,2013,83,26,62,2032
+British Columbia,Hip Fracture Repair,2014,89,25,49,2045
+British Columbia,Hip Fracture Repair,2015,91,24,47,2206
+British Columbia,Hip Fracture Repair,2016,86,26,56,1905
+British Columbia,Hip Fracture Repair,2017,84.18,25,60,1966
+British Columbia,Hip Fracture Repair,2018,84.73,27,59,1532
+British Columbia,Hip Fracture Repair,2019,80.23,29,64,2226
+British Columbia,Hip Fracture Repair,2020,80.63,28,65,2370
+British Columbia,Hip Fracture Repair,2021,78.19,31,67,2265
+British Columbia,Hip Replacement,2008,78,71,279,2192
+British Columbia,Hip Replacement,2009,85,73,223,2216
+British Columbia,Hip Replacement,2010,87,79,195,2162
+British Columbia,Hip Replacement,2011,83,98,212,2195
+British Columbia,Hip Replacement,2012,80,97,216,2436
+British Columbia,Hip Replacement,2013,80,91,230,2396
+British Columbia,Hip Replacement,2014,67,126,310,2581
+British Columbia,Hip Replacement,2015,61,140,359,2589
+British Columbia,Hip Replacement,2016,61,141,341,2929
+British Columbia,Hip Replacement,2017,61.8,133,330,2830
+British Columbia,Hip Replacement,2018,67,120,321,3614
+British Columbia,Hip Replacement,2019,76,96,280,3587
+British Columbia,Hip Replacement,2020,57.9,158,329,2466
+British Columbia,Hip Replacement,2021,72.1,102,287,3440
+British Columbia,Knee Replacement,2008,71,102,332,3130
+British Columbia,Knee Replacement,2009,77,85,275,3241
+British Columbia,Knee Replacement,2010,80,101,236,3317
+British Columbia,Knee Replacement,2011,74,122,257,3349
+British Columbia,Knee Replacement,2012,74,124,253,3475
+British Columbia,Knee Replacement,2013,71,118,258,3407
+British Columbia,Knee Replacement,2014,57,160,341,3588
+British Columbia,Knee Replacement,2015,47,197,382,3800
+British Columbia,Knee Replacement,2016,47,192,381,4232
+British Columbia,Knee Replacement,2017,46.4,196,395,4295
+British Columbia,Knee Replacement,2018,59.1,152,358,5457
+British Columbia,Knee Replacement,2019,65.9,123,323,5341
+British Columbia,Knee Replacement,2020,50,183,384,3569
+British Columbia,Knee Replacement,2021,68.2,119,335,4604
+British Columbia,Radiation Therapy,2010,92,8,25,5862
+British Columbia,Radiation Therapy,2011,93,8,25,5875
+British Columbia,Radiation Therapy,2012,94,8,22,6014
+British Columbia,Radiation Therapy,2013,94,7,22,5827
+British Columbia,Radiation Therapy,2014,95,7,22,6175
+British Columbia,Radiation Therapy,2015,93,8,25,7029
+British Columbia,Radiation Therapy,2016,91,8,27,6585
+British Columbia,Radiation Therapy,2017,93.21,9,25,6143
+British Columbia,Radiation Therapy,2018,93,9,27,6170
+British Columbia,Radiation Therapy,2019,91,10,27,6510
+British Columbia,Radiation Therapy,2020,90,12,28,6596
+British Columbia,Radiation Therapy,2021,88,13,31,6428
+Canada,CABG,2011,99,7,50,8727
+Canada,Cataract Surgery,2010,82.72,52,147,157278
+Canada,Cataract Surgery,2011,82.48,49,149,161524
+Canada,Cataract Surgery,2012,83.32,47,145,166596
+Canada,Cataract Surgery,2013,81.37,47,154,170160
+Canada,Cataract Surgery,2014,80.12,49,161,168072
+Canada,Cataract Surgery,2015,75.6,58,179,165133
+Canada,Cataract Surgery,2016,72.5,68,194,170016
+Canada,Cataract Surgery,2017,70.89,66,211,169667
+Canada,Cataract Surgery,2018,70.1,65,218,177463
+Canada,Cataract Surgery,2019,70.48,67,219,183017
+Canada,Cataract Surgery,2020,44.91,133,310,96706
+Canada,Cataract Surgery,2021,66.18,72,255,164083
+Canada,Hip Fracture Repair,2009,79,25,72,9670
+Canada,Hip Fracture Repair,2010,78,25,72,10164
+Canada,Hip Fracture Repair,2011,79,25,68,10083
+Canada,Hip Fracture Repair,2012,81,24,66,10289
+Canada,Hip Fracture Repair,2013,83,24,62,10713
+Canada,Hip Fracture Repair,2014,84,24,59,10680
+Canada,Hip Fracture Repair,2015,87,23,54,11322
+Canada,Hip Fracture Repair,2016,86,23,55,10903
+Canada,Hip Fracture Repair,2017,86.69,22,54,10782
+Canada,Hip Fracture Repair,2018,87.95,22,52,10564
+Canada,Hip Fracture Repair,2019,85.84,23,56,11577
+Canada,Hip Fracture Repair,2020,85.57,23,58,11529
+Canada,Hip Fracture Repair,2021,84.65,24,58,11763
+Canada,Hip Replacement,2010,84,83,226,13746
+Canada,Hip Replacement,2011,83,90,240,14523
+Canada,Hip Replacement,2012,81,89,238,15761
+Canada,Hip Replacement,2013,82,88,231,17018
+Canada,Hip Replacement,2014,82.14,89,237,17532
+Canada,Hip Replacement,2015,80.86,93,246,18202
+Canada,Hip Replacement,2016,78.25,98,255,19154
+Canada,Hip Replacement,2017,75.67,105,277,19474
+Canada,Hip Replacement,2018,75.25,105,275,21472
+Canada,Hip Replacement,2019,74.95,106,271,21941
+Canada,Hip Replacement,2020,56.28,165,355,13823
+Canada,Hip Replacement,2021,65.21,134,369,19200
+Canada,Knee Replacement,2010,80,99,258,23082
+Canada,Knee Replacement,2011,76,108,276,24683
+Canada,Knee Replacement,2012,76,107,271,26603
+Canada,Knee Replacement,2013,77,105,264,28402
+Canada,Knee Replacement,2014,78.02,101,259,28525
+Canada,Knee Replacement,2015,76.55,110,265,29583
+Canada,Knee Replacement,2016,72.24,118,291,31407
+Canada,Knee Replacement,2017,68.38,129,311,31311
+Canada,Knee Replacement,2018,69.48,122,317,34751
+Canada,Knee Replacement,2019,69.52,121,314,35182
+Canada,Knee Replacement,2020,47.07,197,405,19073
+Canada,Knee Replacement,2021,59.2,159,425,26611
+Canada,Radiation Therapy,2011,97,7,21,39481
+Canada,Radiation Therapy,2012,97,7,19,40677
+Canada,Radiation Therapy,2013,97,7,18,41877
+Canada,Radiation Therapy,2014,98,7,18,42202
+Canada,Radiation Therapy,2015,98,7,18,43767
+Canada,Radiation Therapy,2016,97,8,19,44537
+Canada,Radiation Therapy,2017,97.08,8,19,44109
+Canada,Radiation Therapy,2018,97.07,8,20,46464
+Canada,Radiation Therapy,2019,96.97,9,21,47662
+Canada,Radiation Therapy,2020,97.61,10,20,45250
+Canada,Radiation Therapy,2021,96.66,11,21,48052
+Manitoba,CABG,2008,96,17,119,428
+Manitoba,CABG,2009,100,13,107,407
+Manitoba,CABG,2010,99,14,82,386
+Manitoba,CABG,2011,97,15,110,357
+Manitoba,Cataract Surgery,2008,77,75,151,4215
+Manitoba,Cataract Surgery,2009,80,82,161,4320
+Manitoba,Cataract Surgery,2010,70,82,179,4296
+Manitoba,Cataract Surgery,2011,71,76,169,4519
+Manitoba,Cataract Surgery,2012,61,87,257,4541
+Manitoba,Cataract Surgery,2013,62,86,247,4975
+Manitoba,Cataract Surgery,2014,63,78,205,4292
+Manitoba,Cataract Surgery,2015,41,122,239,3173
+Manitoba,Cataract Surgery,2016,34,148,289,2915
+Manitoba,Cataract Surgery,2017,32,155,409,3076
+Manitoba,Cataract Surgery,2018,29,167,378,2962
+Manitoba,Cataract Surgery,2019,33,162,422,3769
+Manitoba,Cataract Surgery,2020,21,214,448,2646
+Manitoba,Cataract Surgery,2021,39,141,516,3031
+Manitoba,Hip Fracture Repair,2009,78,26,76,573
+Manitoba,Hip Fracture Repair,2010,82,22,70,538
+Manitoba,Hip Fracture Repair,2011,85,22,57,612
+Manitoba,Hip Fracture Repair,2012,86,20,63,585
+Manitoba,Hip Fracture Repair,2013,89,20,50,557
+Manitoba,Hip Fracture Repair,2014,91,20,47,487
+Manitoba,Hip Fracture Repair,2015,92,19,46,543
+Manitoba,Hip Fracture Repair,2016,91,19,45,575
+Manitoba,Hip Fracture Repair,2017,93.3,20,42,552
+Manitoba,Hip Fracture Repair,2018,92.13,19,43,559
+Manitoba,Hip Fracture Repair,2019,93.08,19,44,607
+Manitoba,Hip Fracture Repair,2020,91.48,18,45,610
+Manitoba,Hip Fracture Repair,2021,89.1,20,51,587
+Manitoba,Hip Replacement,2008,64,139,362,646
+Manitoba,Hip Replacement,2009,63,124,335,564
+Manitoba,Hip Replacement,2010,61,141,365,730
+Manitoba,Hip Replacement,2011,59,146,382,662
+Manitoba,Hip Replacement,2012,56,160,346,665
+Manitoba,Hip Replacement,2013,68,119,299,628
+Manitoba,Hip Replacement,2014,71,104,248,660
+Manitoba,Hip Replacement,2015,69,118,339,633
+Manitoba,Hip Replacement,2016,66,136,348,697
+Manitoba,Hip Replacement,2017,53,169,414,710
+Manitoba,Hip Replacement,2018,49,186,413,748
+Manitoba,Hip Replacement,2019,55,163,368,842
+Manitoba,Hip Replacement,2020,47,196,389,719
+Manitoba,Hip Replacement,2021,55,169,444,687
+Manitoba,Knee Replacement,2008,52,174,479,1052
+Manitoba,Knee Replacement,2009,56,160,470,878
+Manitoba,Knee Replacement,2010,53,172,420,976
+Manitoba,Knee Replacement,2011,52,176,420,1049
+Manitoba,Knee Replacement,2012,46,198,397,1015
+Manitoba,Knee Replacement,2013,58,157,344,1127
+Manitoba,Knee Replacement,2014,71,112,274,1058
+Manitoba,Knee Replacement,2015,64,138,363,1000
+Manitoba,Knee Replacement,2016,58,160,412,1084
+Manitoba,Knee Replacement,2017,43,203,435,1148
+Manitoba,Knee Replacement,2018,37,230,451,1258
+Manitoba,Knee Replacement,2019,46,203,418,1372
+Manitoba,Knee Replacement,2020,37,238,463,1150
+Manitoba,Knee Replacement,2021,38,237,566,926
+Manitoba,Radiation Therapy,2008,99,5,23,1507
+Manitoba,Radiation Therapy,2009,100,6,25,1418
+Manitoba,Radiation Therapy,2010,100,6,24,1293
+Manitoba,Radiation Therapy,2011,100,6,23,1385
+Manitoba,Radiation Therapy,2012,100,6,22,1550
+Manitoba,Radiation Therapy,2013,100,7,22,1563
+Manitoba,Radiation Therapy,2014,100,7,21,1564
+Manitoba,Radiation Therapy,2015,100,7,22,1607
+Manitoba,Radiation Therapy,2016,100,10,22,1503
+Manitoba,Radiation Therapy,2017,100,12,25,1656
+Manitoba,Radiation Therapy,2018,100,9,25,1741
+Manitoba,Radiation Therapy,2019,100,9,26,1804
+Manitoba,Radiation Therapy,2020,100,9,24,1850
+Manitoba,Radiation Therapy,2021,100,13,23,1780
+New Brunswick,CABG,2008,95,3,131,214
+New Brunswick,CABG,2009,98,6,111,218
+New Brunswick,CABG,2010,100,5,63,234
+New Brunswick,CABG,2011,99,7,57,204
+New Brunswick,Cataract Surgery,2008,74,57,194,4460
+New Brunswick,Cataract Surgery,2009,84,45,135,4634
+New Brunswick,Cataract Surgery,2010,89,44,119,4712
+New Brunswick,Cataract Surgery,2011,85,35,158,5108
+New Brunswick,Cataract Surgery,2012,85,33,160,4948
+New Brunswick,Cataract Surgery,2013,88,25,134,5214
+New Brunswick,Cataract Surgery,2014,86,43,137,5320
+New Brunswick,Cataract Surgery,2015,80,48,161,5362
+New Brunswick,Cataract Surgery,2016,68,64,194,5310
+New Brunswick,Cataract Surgery,2017,73,55,218,5682
+New Brunswick,Cataract Surgery,2018,67,58,230,5678
+New Brunswick,Cataract Surgery,2019,66,70,226,5908
+New Brunswick,Cataract Surgery,2020,53,98,292,4540
+New Brunswick,Cataract Surgery,2021,71,51,222,6147
+New Brunswick,Hip Fracture Repair,2009,82,19,69,323
+New Brunswick,Hip Fracture Repair,2010,78,21,79,355
+New Brunswick,Hip Fracture Repair,2011,83,20,66,344
+New Brunswick,Hip Fracture Repair,2012,80,19,72,343
+New Brunswick,Hip Fracture Repair,2013,84,20,54,355
+New Brunswick,Hip Fracture Repair,2014,83,19,66,363
+New Brunswick,Hip Fracture Repair,2015,86,21,58,407
+New Brunswick,Hip Fracture Repair,2016,89,19,52,361
+New Brunswick,Hip Fracture Repair,2017,89.74,17,48,390
+New Brunswick,Hip Fracture Repair,2018,90.48,19,47,336
+New Brunswick,Hip Fracture Repair,2019,89.22,18,49,436
+New Brunswick,Hip Fracture Repair,2020,91.11,18,47,371
+New Brunswick,Hip Fracture Repair,2021,83.46,22,58,387
+New Brunswick,Hip Replacement,2008,66,140,309,300
+New Brunswick,Hip Replacement,2009,76,94,250,315
+New Brunswick,Hip Replacement,2010,79,86,232,312
+New Brunswick,Hip Replacement,2011,72,120,327,375
+New Brunswick,Hip Replacement,2012,72,112,290,369
+New Brunswick,Hip Replacement,2013,69,109,336,389
+New Brunswick,Hip Replacement,2014,65,127,383,366
+New Brunswick,Hip Replacement,2015,62,134,456,424
+New Brunswick,Hip Replacement,2016,55,164,406,505
+New Brunswick,Hip Replacement,2017,56,162,386,508
+New Brunswick,Hip Replacement,2018,55,170,406,509
+New Brunswick,Hip Replacement,2019,48,195,378,532
+New Brunswick,Hip Replacement,2020,29,268,547,446
+New Brunswick,Hip Replacement,2021,54,168,484,572
+New Brunswick,Knee Replacement,2008,55,167,408,538
+New Brunswick,Knee Replacement,2009,63,137,340,575
+New Brunswick,Knee Replacement,2010,67,119,314,543
+New Brunswick,Knee Replacement,2011,53,172,389,684
+New Brunswick,Knee Replacement,2012,61,143,340,665
+New Brunswick,Knee Replacement,2013,60,143,352,682
+New Brunswick,Knee Replacement,2014,48,188,480,731
+New Brunswick,Knee Replacement,2015,55,161,400,841
+New Brunswick,Knee Replacement,2016,50,180,480,925
+New Brunswick,Knee Replacement,2017,46,201,451,903
+New Brunswick,Knee Replacement,2018,43,209,510,935
+New Brunswick,Knee Replacement,2019,44,197,485,938
+New Brunswick,Knee Replacement,2020,25,296,568,650
+New Brunswick,Knee Replacement,2021,45,207,499,915
+New Brunswick,Radiation Therapy,2012,94,7,24,1023
+New Brunswick,Radiation Therapy,2013,97,7,20,1052
+New Brunswick,Radiation Therapy,2014,97,7,19,931
+New Brunswick,Radiation Therapy,2015,99,6,17,825
+New Brunswick,Radiation Therapy,2016,98,7,19,947
+New Brunswick,Radiation Therapy,2017,96.9,8,20,973
+New Brunswick,Radiation Therapy,2018,95.2,11,24,1019
+New Brunswick,Radiation Therapy,2019,92.8,12,27,1048
+New Brunswick,Radiation Therapy,2020,95.3,10,23,1034
+New Brunswick,Radiation Therapy,2021,91.6,13,28,1159
+Newfoundland and Labrador,CABG,2009,98,8,136,185
+Newfoundland and Labrador,CABG,2010,100,9,84,179
+Newfoundland and Labrador,CABG,2011,100,5,48,184
+Newfoundland and Labrador,Cataract Surgery,2010,80,58,144,2256
+Newfoundland and Labrador,Cataract Surgery,2011,71,73,176,1427
+Newfoundland and Labrador,Cataract Surgery,2012,82,52,149,2484
+Newfoundland and Labrador,Cataract Surgery,2013,95,35,103,1278
+Newfoundland and Labrador,Cataract Surgery,2014,96,39,95,1479
+Newfoundland and Labrador,Cataract Surgery,2015,96,40,97,1761
+Newfoundland and Labrador,Cataract Surgery,2016,90,65,112,2053
+Newfoundland and Labrador,Cataract Surgery,2017,87,63,118,1610
+Newfoundland and Labrador,Cataract Surgery,2018,77,85,153,1493
+Newfoundland and Labrador,Cataract Surgery,2019,63,95,209,1263
+Newfoundland and Labrador,Cataract Surgery,2020,33,264,474,527
+Newfoundland and Labrador,Cataract Surgery,2021,42,146,279,1077
+Newfoundland and Labrador,Hip Fracture Repair,2011,87,22,54,227
+Newfoundland and Labrador,Hip Fracture Repair,2012,81,26,62,182
+Newfoundland and Labrador,Hip Fracture Repair,2013,82,19,64,185
+Newfoundland and Labrador,Hip Fracture Repair,2014,75,30,93,188
+Newfoundland and Labrador,Hip Fracture Repair,2015,85,22,64,234
+Newfoundland and Labrador,Hip Fracture Repair,2016,90,20,48,181
+Newfoundland and Labrador,Hip Fracture Repair,2017,87.15,20,50,249
+Newfoundland and Labrador,Hip Fracture Repair,2018,90.32,20,45,155
+Newfoundland and Labrador,Hip Fracture Repair,2019,85.43,21,60,247
+Newfoundland and Labrador,Hip Fracture Repair,2020,85.66,25,65,258
+Newfoundland and Labrador,Hip Fracture Repair,2021,90.05,24,47,201
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2010,78,26,60,188
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2011,91,24,48,229
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2012,88,30,49,210
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2013,85,26,51,217
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2014,84,27,52,227
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2015,92,24,46,238
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2016,97,22,44,233
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2017,92,22,46,250
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2018,99,21,38,221
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2019,98,22,37,195
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2020,95,25,44,174
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2021,99,23,39,175
+Newfoundland and Labrador,Hip Replacement,2010,75,90,360,143
+Newfoundland and Labrador,Hip Replacement,2011,82,93,334,206
+Newfoundland and Labrador,Hip Replacement,2012,83,89,260,195
+Newfoundland and Labrador,Hip Replacement,2013,92,82,177,243
+Newfoundland and Labrador,Hip Replacement,2014,96,86,161,248
+Newfoundland and Labrador,Hip Replacement,2015,94,83,173,245
+Newfoundland and Labrador,Hip Replacement,2016,77,100,241,252
+Newfoundland and Labrador,Hip Replacement,2017,84,81,225,304
+Newfoundland and Labrador,Hip Replacement,2018,88,92,187,279
+Newfoundland and Labrador,Hip Replacement,2019,76,113,229,303
+Newfoundland and Labrador,Hip Replacement,2020,45,204,380,163
+Newfoundland and Labrador,Hip Replacement,2021,57,165,502,241
+Newfoundland and Labrador,Knee Replacement,2010,67,113,438,358
+Newfoundland and Labrador,Knee Replacement,2011,62,139,469,413
+Newfoundland and Labrador,Knee Replacement,2012,81,105,250,438
+Newfoundland and Labrador,Knee Replacement,2013,93,77,170,439
+Newfoundland and Labrador,Knee Replacement,2014,92,98,176,402
+Newfoundland and Labrador,Knee Replacement,2015,87,99,186,447
+Newfoundland and Labrador,Knee Replacement,2016,70,127,269,498
+Newfoundland and Labrador,Knee Replacement,2017,66,145,291,527
+Newfoundland and Labrador,Knee Replacement,2018,75,132,248,521
+Newfoundland and Labrador,Knee Replacement,2019,72,133,280,546
+Newfoundland and Labrador,Knee Replacement,2020,21,286,461,229
+Newfoundland and Labrador,Knee Replacement,2021,44,210,589,360
+Newfoundland and Labrador,Radiation Therapy,2009,88,9,33,811
+Newfoundland and Labrador,Radiation Therapy,2010,94,14,27,382
+Newfoundland and Labrador,Radiation Therapy,2011,96,14,26,500
+Newfoundland and Labrador,Radiation Therapy,2012,98,8,19,410
+Newfoundland and Labrador,Radiation Therapy,2013,97,14,25,384
+Newfoundland and Labrador,Radiation Therapy,2014,98,14,23,368
+Newfoundland and Labrador,Radiation Therapy,2015,99,13,20,357
+Newfoundland and Labrador,Radiation Therapy,2016,100,12,20,393
+Newfoundland and Labrador,Radiation Therapy,2017,100,12,20,428
+Newfoundland and Labrador,Radiation Therapy,2018,100,14,22,867
+Newfoundland and Labrador,Radiation Therapy,2019,100,16,22,515
+Newfoundland and Labrador,Radiation Therapy,2020,99,16,22,528
+Newfoundland and Labrador,Radiation Therapy,2021,99,15,21,534
+Nova Scotia,CABG,2008,100,26,65,91
+Nova Scotia,CABG,2009,100,63,117,118
+Nova Scotia,CABG,2010,100,5,23,159
+Nova Scotia,CABG,2011,100,10,77,201
+Nova Scotia,Cataract Surgery,2008,75,54,199,4686
+Nova Scotia,Cataract Surgery,2009,69,67,210,4835
+Nova Scotia,Cataract Surgery,2010,67,69,206,5136
+Nova Scotia,Cataract Surgery,2011,54,115,292,3663
+Nova Scotia,Cataract Surgery,2012,58,102,293,3809
+Nova Scotia,Cataract Surgery,2013,62,93,265,4089
+Nova Scotia,Cataract Surgery,2014,65,85,206,3865
+Nova Scotia,Cataract Surgery,2015,64,93,220,3637
+Nova Scotia,Cataract Surgery,2016,65,92,214,4004
+Nova Scotia,Cataract Surgery,2017,66,90,211,4047
+Nova Scotia,Cataract Surgery,2018,68,76,229,3795
+Nova Scotia,Cataract Surgery,2019,60,92,250,3702
+Nova Scotia,Cataract Surgery,2020,32,185,394,2031
+Nova Scotia,Cataract Surgery,2021,62.4,88,255,3899
+Nova Scotia,Hip Fracture Repair,2009,82,21,69,262
+Nova Scotia,Hip Fracture Repair,2010,78,22,83,472
+Nova Scotia,Hip Fracture Repair,2011,79,21,72,396
+Nova Scotia,Hip Fracture Repair,2012,76,24,77,407
+Nova Scotia,Hip Fracture Repair,2013,82,22,67,448
+Nova Scotia,Hip Fracture Repair,2014,76,26,68,388
+Nova Scotia,Hip Fracture Repair,2015,85,22,60,435
+Nova Scotia,Hip Fracture Repair,2016,85,21,56,294
+Nova Scotia,Hip Fracture Repair,2017,87.16,21,55,483
+Nova Scotia,Hip Fracture Repair,2018,91.38,19,45,429
+Nova Scotia,Hip Fracture Repair,2019,88.92,20,50,361
+Nova Scotia,Hip Fracture Repair,2020,87.7,22,52,488
+Nova Scotia,Hip Fracture Repair,2021,88.38,21,51,499
+Nova Scotia,Hip Replacement,2008,45,201,642,486
+Nova Scotia,Hip Replacement,2009,51,178,543,525
+Nova Scotia,Hip Replacement,2010,57,160,512,548
+Nova Scotia,Hip Replacement,2011,53,172,498,459
+Nova Scotia,Hip Replacement,2012,47,197,547,456
+Nova Scotia,Hip Replacement,2013,50,181,534,523
+Nova Scotia,Hip Replacement,2014,51,179,569,532
+Nova Scotia,Hip Replacement,2015,52,173,611,575
+Nova Scotia,Hip Replacement,2016,56,152,606,600
+Nova Scotia,Hip Replacement,2017,51,179,665,670
+Nova Scotia,Hip Replacement,2018,49,186,568,684
+Nova Scotia,Hip Replacement,2019,59,158,442,798
+Nova Scotia,Hip Replacement,2020,47,190,474,390
+Nova Scotia,Hip Replacement,2021,59,152,608,564
+Nova Scotia,Knee Replacement,2008,46,213,647,660
+Nova Scotia,Knee Replacement,2009,47,195,576,697
+Nova Scotia,Knee Replacement,2010,42,218,582,841
+Nova Scotia,Knee Replacement,2011,36,252,573,775
+Nova Scotia,Knee Replacement,2012,33,302,598,761
+Nova Scotia,Knee Replacement,2013,36,272,632,846
+Nova Scotia,Knee Replacement,2014,37,251,734,922
+Nova Scotia,Knee Replacement,2015,36,271,727,934
+Nova Scotia,Knee Replacement,2016,38,260,764,1001
+Nova Scotia,Knee Replacement,2017,34,283,740,968
+Nova Scotia,Knee Replacement,2018,47,194,581,1244
+Nova Scotia,Knee Replacement,2019,47,195,531,1331
+Nova Scotia,Knee Replacement,2020,31,270,652,545
+Nova Scotia,Knee Replacement,2021,50.7,179,658,946
+Nova Scotia,Radiation Therapy,2009,62,21,49,1330
+Nova Scotia,Radiation Therapy,2010,85,12,35,1367
+Nova Scotia,Radiation Therapy,2011,83,13,34,1376
+Nova Scotia,Radiation Therapy,2012,89,9,29,1396
+Nova Scotia,Radiation Therapy,2013,90,10,28,1373
+Nova Scotia,Radiation Therapy,2014,88,14,31,1366
+Nova Scotia,Radiation Therapy,2015,94,10,25,1439
+Nova Scotia,Radiation Therapy,2016,94,11,26,1612
+Nova Scotia,Radiation Therapy,2017,92,12,27,1493
+Nova Scotia,Radiation Therapy,2018,96,10,25,1434
+Nova Scotia,Radiation Therapy,2019,95.83,10,25,1511
+Nova Scotia,Radiation Therapy,2020,99,10,21,1518
+Nova Scotia,Radiation Therapy,2021,88.5,14,30,1600
+Ontario,CABG,2008,100,19,56,3468
+Ontario,CABG,2009,100,7,43,3990
+Ontario,CABG,2010,100,6,41,3871
+Ontario,CABG,2011,100,6,39,3512
+Ontario,Cataract Surgery,2008,88,44,123,65616
+Ontario,Cataract Surgery,2009,92,43,104,67377
+Ontario,Cataract Surgery,2010,88,48,122,65919
+Ontario,Cataract Surgery,2011,88,45,121,66663
+Ontario,Cataract Surgery,2012,86,46,128,67349
+Ontario,Cataract Surgery,2013,81,50,153,65873
+Ontario,Cataract Surgery,2014,81,50,157,65160
+Ontario,Cataract Surgery,2015,74,62,182,64098
+Ontario,Cataract Surgery,2016,70,65,208,66098
+Ontario,Cataract Surgery,2017,68.57,67,229,64142
+Ontario,Cataract Surgery,2018,70,65,222,68522
+Ontario,Cataract Surgery,2019,72.42,63,223,69587
+Ontario,Cataract Surgery,2020,39.55,152,303,29199
+Ontario,Cataract Surgery,2021,60.41,88,286,52643
+Ontario,Hip Fracture Repair,2009,77,26,75,4921
+Ontario,Hip Fracture Repair,2010,77,26,73,5009
+Ontario,Hip Fracture Repair,2011,78,27,70,4996
+Ontario,Hip Fracture Repair,2012,82,25,64,5231
+Ontario,Hip Fracture Repair,2013,83,24,64,5498
+Ontario,Hip Fracture Repair,2014,84,24,61,5467
+Ontario,Hip Fracture Repair,2015,86,23,55,5546
+Ontario,Hip Fracture Repair,2016,85,23,57,5639
+Ontario,Hip Fracture Repair,2017,85.68,23,56,5306
+Ontario,Hip Fracture Repair,2018,87.34,24,52,5610
+Ontario,Hip Fracture Repair,2019,85.5,24,56,5601
+Ontario,Hip Fracture Repair,2020,84.43,24,59,5381
+Ontario,Hip Fracture Repair,2021,84.4,25,57,5739
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2009,69,32,46,4221
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2010,70,33,79,4467
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2011,70,33,75,4423
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2012,74,30,69,4683
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2013,76,29,70,4975
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2014,77,29,66,4948
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2015,79,28,60,5066
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2016,79,29,63,5104
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2017,79.18,28,63,4919
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2018,80,29,59,5146
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2019,78.28,30,62,5101
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2020,77.42,30,66,5061
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2021,76.54,30,64,5282
+Ontario,Hip Replacement,2008,90,63,180,5348
+Ontario,Hip Replacement,2009,93,62,160,5822
+Ontario,Hip Replacement,2010,91,65,172,5823
+Ontario,Hip Replacement,2011,90,70,186,5919
+Ontario,Hip Replacement,2012,89,68,192,6256
+Ontario,Hip Replacement,2013,89,70,188,7093
+Ontario,Hip Replacement,2014,88,71,202,7323
+Ontario,Hip Replacement,2015,87,75,197,7700
+Ontario,Hip Replacement,2016,85,80,210,7953
+Ontario,Hip Replacement,2017,83.16,82,242,8217
+Ontario,Hip Replacement,2018,84,77,230,8723
+Ontario,Hip Replacement,2019,84.81,77,234,8823
+Ontario,Hip Replacement,2020,63.95,141,321,5281
+Ontario,Hip Replacement,2021,75.08,104,302,7212
+Ontario,Knee Replacement,2008,85,71,223,9922
+Ontario,Knee Replacement,2009,90,67,184,10332
+Ontario,Knee Replacement,2010,89,72,190,10250
+Ontario,Knee Replacement,2011,85,78,219,10886
+Ontario,Knee Replacement,2012,84,76,226,11547
+Ontario,Knee Replacement,2013,85,79,216,12499
+Ontario,Knee Replacement,2014,86,75,209,12480
+Ontario,Knee Replacement,2015,86,80,211,13031
+Ontario,Knee Replacement,2016,81,86,241,13880
+Ontario,Knee Replacement,2017,78.34,92,275,13801
+Ontario,Knee Replacement,2018,79,85,285,15183
+Ontario,Knee Replacement,2019,79.86,85,281,15647
+Ontario,Knee Replacement,2020,56.46,163,372,7612
+Ontario,Knee Replacement,2021,71.14,112,363,10572
+Ontario,Radiation Therapy,2008,90,11,29,13177
+Ontario,Radiation Therapy,2009,96,7,21,13352
+Ontario,Radiation Therapy,2010,97,7,20,13633
+Ontario,Radiation Therapy,2011,97,7,18,14738
+Ontario,Radiation Therapy,2012,98,7,15,14282
+Ontario,Radiation Therapy,2013,98,6,14,15186
+Ontario,Radiation Therapy,2014,99,7,14,14917
+Ontario,Radiation Therapy,2015,99,7,14,15652
+Ontario,Radiation Therapy,2016,99,7,15,15972
+Ontario,Radiation Therapy,2017,98.3,8,15,15740
+Ontario,Radiation Therapy,2018,98.09,8,16,16949
+Ontario,Radiation Therapy,2019,98.21,9,18,17454
+Ontario,Radiation Therapy,2020,98,9,16,16121
+Ontario,Radiation Therapy,2021,98.08,10,17,17725
+Prince Edward Island,Cataract Surgery,2008,60,78,180,477
+Prince Edward Island,Cataract Surgery,2009,80,67,163,548
+Prince Edward Island,Cataract Surgery,2010,80.4,64,134,465
+Prince Edward Island,Cataract Surgery,2011,65.9,86,171,414
+Prince Edward Island,Cataract Surgery,2012,63.2,70,218,416
+Prince Edward Island,Cataract Surgery,2013,53.3,98,241,539
+Prince Edward Island,Cataract Surgery,2014,46.1,118,190,532
+Prince Edward Island,Cataract Surgery,2015,81.6,57,183,554
+Prince Edward Island,Cataract Surgery,2016,88.5,71,118,486
+Prince Edward Island,Cataract Surgery,2017,60,99,167,577
+Prince Edward Island,Cataract Surgery,2018,47.9,118,302,603
+Prince Edward Island,Cataract Surgery,2019,28,167,356,753
+Prince Edward Island,Cataract Surgery,2020,15.8,230,467,628
+Prince Edward Island,Cataract Surgery,2021,30.5,162,324,725
+Prince Edward Island,Hip Fracture Repair,2010,74,26,71,62
+Prince Edward Island,Hip Fracture Repair,2011,81,23,58,32
+Prince Edward Island,Hip Fracture Repair,2012,73,21,60,30
+Prince Edward Island,Hip Fracture Repair,2013,75,31,75,99
+Prince Edward Island,Hip Fracture Repair,2014,63,41,63,24
+Prince Edward Island,Hip Fracture Repair,2015,77,24,55,60
+Prince Edward Island,Hip Fracture Repair,2016,76,24,65,45
+Prince Edward Island,Hip Fracture Repair,2017,85.37,24,52,82
+Prince Edward Island,Hip Fracture Repair,2018,83.78,21,69,37
+Prince Edward Island,Hip Fracture Repair,2019,93.94,16,44,66
+Prince Edward Island,Hip Fracture Repair,2020,97.22,12,26,72
+Prince Edward Island,Hip Fracture Repair,2021,95,17,41,60
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2013,80,23,64,81
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2014,77,28,60,86
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2015,74,31,62,54
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2016,84,25,52,64
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2017,86.5,22,51,74
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2018,86,25,50,57
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2019,94,16,42,71
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2020,96.9,10,29,65
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2021,93.5,18,45,62
+Prince Edward Island,Hip Replacement,2008,71,110,356,59
+Prince Edward Island,Hip Replacement,2009,84,105,197,56
+Prince Edward Island,Hip Replacement,2010,90,62,205,41
+Prince Edward Island,Hip Replacement,2011,71,112,276,70
+Prince Edward Island,Hip Replacement,2012,52,173,313,84
+Prince Edward Island,Hip Replacement,2013,80,121,252,78
+Prince Edward Island,Hip Replacement,2014,81,56,228,101
+Prince Edward Island,Hip Replacement,2015,85,92,245,83
+Prince Edward Island,Hip Replacement,2016,67,133,281,86
+Prince Edward Island,Hip Replacement,2017,50,182,258,76
+Prince Edward Island,Hip Replacement,2018,48.6,190,305,109
+Prince Edward Island,Hip Replacement,2019,66,138,333,106
+Prince Edward Island,Hip Replacement,2020,56.3,156,463,119
+Prince Edward Island,Hip Replacement,2021,56.3,162,348,142
+Prince Edward Island,Knee Replacement,2008,75,108,345,105
+Prince Edward Island,Knee Replacement,2009,69,137,309,111
+Prince Edward Island,Knee Replacement,2010,73,127,316,99
+Prince Edward Island,Knee Replacement,2011,55,171,297,112
+Prince Edward Island,Knee Replacement,2012,35,225,362,147
+Prince Edward Island,Knee Replacement,2013,61,148,324,173
+Prince Edward Island,Knee Replacement,2014,70,126,300,153
+Prince Edward Island,Knee Replacement,2015,83,112,229,139
+Prince Edward Island,Knee Replacement,2016,67,146,251,145
+Prince Edward Island,Knee Replacement,2017,46.2,195,312,145
+Prince Edward Island,Knee Replacement,2018,26.1,242,368,176
+Prince Edward Island,Knee Replacement,2019,28.4,246,341,176
+Prince Edward Island,Knee Replacement,2020,32.4,315,503,185
+Prince Edward Island,Knee Replacement,2021,46.2,204,413,279
+Prince Edward Island,Radiation Therapy,2008,100,7,19,198
+Prince Edward Island,Radiation Therapy,2009,95,9,23,199
+Prince Edward Island,Radiation Therapy,2010,97,14,23,215
+Prince Edward Island,Radiation Therapy,2011,96,13,23,228
+Prince Edward Island,Radiation Therapy,2012,99,12,22,186
+Prince Edward Island,Radiation Therapy,2013,92,15,28,216
+Prince Edward Island,Radiation Therapy,2014,90,14,28,247
+Prince Edward Island,Radiation Therapy,2015,98,12,24,224
+Prince Edward Island,Radiation Therapy,2016,95,12,25,245
+Prince Edward Island,Radiation Therapy,2017,92,13,28,275
+Prince Edward Island,Radiation Therapy,2018,100,8,19,220
+Prince Edward Island,Radiation Therapy,2019,99.2,10,21,265
+Prince Edward Island,Radiation Therapy,2020,98.3,12,20,240
+Prince Edward Island,Radiation Therapy,2021,99.2,12,20,243
+Quebec,Cataract Surgery,2008,82,42,155,33263
+Quebec,Cataract Surgery,2009,87,37,130,37720
+Quebec,Cataract Surgery,2010,87,36,126,38786
+Quebec,Cataract Surgery,2011,88,34,122,41137
+Quebec,Cataract Surgery,2012,88,35,123,45731
+Quebec,Cataract Surgery,2013,88,31,126,48965
+Quebec,Cataract Surgery,2014,88,32,129,46829
+Quebec,Cataract Surgery,2015,88,35,126,45079
+Quebec,Cataract Surgery,2016,86,55,130,45716
+Quebec,Cataract Surgery,2017,85,41,139,45660
+Quebec,Cataract Surgery,2018,82.9,41,151,46767
+Quebec,Cataract Surgery,2019,82.3,42,145,47769
+Quebec,Cataract Surgery,2020,53.5,99,248,20890
+Quebec,Cataract Surgery,2021,68.3,65,231,38955
+Quebec,Hip Replacement,2008,90,69,182,1857
+Quebec,Hip Replacement,2009,90,66,183,2185
+Quebec,Hip Replacement,2010,88,72,203,1989
+Quebec,Hip Replacement,2011,82,86,233,2408
+Quebec,Hip Replacement,2012,79,84,244,2873
+Quebec,Hip Replacement,2013,81,85,239,3021
+Quebec,Hip Replacement,2014,84,83,229,3093
+Quebec,Hip Replacement,2015,85,82,218,3264
+Quebec,Hip Replacement,2016,85,83,214,3381
+Quebec,Hip Replacement,2017,83.1,93,215,3373
+Quebec,Hip Replacement,2018,80,97,238,3756
+Quebec,Hip Replacement,2019,75.9,105,249,3756
+Quebec,Hip Replacement,2020,55.7,163,342,2193
+Quebec,Hip Replacement,2021,51.9,176,440,3495
+Quebec,Knee Replacement,2008,86,85,211,2605
+Quebec,Knee Replacement,2009,85,85,214,3018
+Quebec,Knee Replacement,2010,83,96,225,3518
+Quebec,Knee Replacement,2011,78,99,246,3792
+Quebec,Knee Replacement,2012,76,102,253,4644
+Quebec,Knee Replacement,2013,78,96,258,4766
+Quebec,Knee Replacement,2014,81,88,237,4852
+Quebec,Knee Replacement,2015,80,94,247,5081
+Quebec,Knee Replacement,2016,80,97,243,5329
+Quebec,Knee Replacement,2017,79.6,101,228,5200
+Quebec,Knee Replacement,2018,76.6,116,244,5380
+Quebec,Knee Replacement,2019,72.2,118,269,5297
+Quebec,Knee Replacement,2020,43.4,202,354,2408
+Quebec,Knee Replacement,2021,44.3,206,491,4232
+Saskatchewan,CABG,2008,98,4,69,309
+Saskatchewan,CABG,2009,97,5,90,329
+Saskatchewan,CABG,2010,100,4,25,312
+Saskatchewan,CABG,2011,100,3,27,255
+Saskatchewan,Cataract Surgery,2008,48,118,334,3423
+Saskatchewan,Cataract Surgery,2009,59,95,350,3249
+Saskatchewan,Cataract Surgery,2010,62,81,252,3196
+Saskatchewan,Cataract Surgery,2011,58,90,242,3020
+Saskatchewan,Cataract Surgery,2012,57,96,229,3109
+Saskatchewan,Cataract Surgery,2013,70,67,179,3573
+Saskatchewan,Cataract Surgery,2014,88,40,119,3850
+Saskatchewan,Cataract Surgery,2015,96,35,92,3567
+Saskatchewan,Cataract Surgery,2016,79,60,142,3509
+Saskatchewan,Cataract Surgery,2017,76.84,59,175,3783
+Saskatchewan,Cataract Surgery,2018,61.82,81,203,3981
+Saskatchewan,Cataract Surgery,2019,60.6,85,235,4091
+Saskatchewan,Cataract Surgery,2020,40.24,142,314,2624
+Saskatchewan,Cataract Surgery,2021,63.49,84,251,4155
+Saskatchewan,Hip Fracture Repair,2009,75,26,84,365
+Saskatchewan,Hip Fracture Repair,2010,72,33,88,507
+Saskatchewan,Hip Fracture Repair,2011,84,22,67,438
+Saskatchewan,Hip Fracture Repair,2012,79,24,74,337
+Saskatchewan,Hip Fracture Repair,2013,82,24,67,424
+Saskatchewan,Hip Fracture Repair,2014,79,24,68,345
+Saskatchewan,Hip Fracture Repair,2015,80,25,65,532
+Saskatchewan,Hip Fracture Repair,2016,79,30,80,481
+Saskatchewan,Hip Fracture Repair,2017,81.9,27,60,442
+Saskatchewan,Hip Fracture Repair,2018,78.5,33,65,507
+Saskatchewan,Hip Fracture Repair,2019,83.49,27,62,527
+Saskatchewan,Hip Fracture Repair,2020,85.63,27,61,515
+Saskatchewan,Hip Fracture Repair,2021,82.53,28,64,521
+Saskatchewan,Hip Replacement,2008,56,157,482,497
+Saskatchewan,Hip Replacement,2009,64,131,403,570
+Saskatchewan,Hip Replacement,2010,69,110,401,517
+Saskatchewan,Hip Replacement,2011,75,102,324,556
+Saskatchewan,Hip Replacement,2012,69,120,366,589
+Saskatchewan,Hip Replacement,2013,77,99,243,782
+Saskatchewan,Hip Replacement,2014,93,63,158,738
+Saskatchewan,Hip Replacement,2015,100,53,128,794
+Saskatchewan,Hip Replacement,2016,80,84,225,708
+Saskatchewan,Hip Replacement,2017,75.59,98,280,762
+Saskatchewan,Hip Replacement,2018,66.13,117,322,800
+Saskatchewan,Hip Replacement,2019,47.37,194,381,874
+Saskatchewan,Hip Replacement,2020,40.48,236,482,462
+Saskatchewan,Hip Replacement,2021,42.65,234,639,687
+Saskatchewan,Knee Replacement,2008,37,246,613,818
+Saskatchewan,Knee Replacement,2009,48,194,463,1086
+Saskatchewan,Knee Replacement,2010,61,135,428,838
+Saskatchewan,Knee Replacement,2011,62,139,357,973
+Saskatchewan,Knee Replacement,2012,55,165,420,1061
+Saskatchewan,Knee Replacement,2013,66,128,354,1501
+Saskatchewan,Knee Replacement,2014,89,70,193,1417
+Saskatchewan,Knee Replacement,2015,99,62,130,1202
+Saskatchewan,Knee Replacement,2016,73,109,240,1139
+Saskatchewan,Knee Replacement,2017,60.98,142,310,1289
+Saskatchewan,Knee Replacement,2018,55.95,168,355,1310
+Saskatchewan,Knee Replacement,2019,38.81,255,410,1358
+Saskatchewan,Knee Replacement,2020,28.3,302,514,643
+Saskatchewan,Knee Replacement,2021,30.23,416,695,913
+Saskatchewan,Radiation Therapy,2008,81,14,36,781
+Saskatchewan,Radiation Therapy,2009,97,8,22,832
+Saskatchewan,Radiation Therapy,2010,97,6,20,891
+Saskatchewan,Radiation Therapy,2011,99,6,17,998
+Saskatchewan,Radiation Therapy,2012,98,4,15,992
+Saskatchewan,Radiation Therapy,2013,98,5,15,1029
+Saskatchewan,Radiation Therapy,2014,97,7,16,1081
+Saskatchewan,Radiation Therapy,2015,97,8,20,1001
+Saskatchewan,Radiation Therapy,2016,97,7,18,1105
+Saskatchewan,Radiation Therapy,2017,97,7,15,1031
+Saskatchewan,Radiation Therapy,2018,97,7,18,1052
+Saskatchewan,Radiation Therapy,2019,97,8,20,1079
+Saskatchewan,Radiation Therapy,2020,97,7,21,1173
+Saskatchewan,Radiation Therapy,2021,98,7,19,1202

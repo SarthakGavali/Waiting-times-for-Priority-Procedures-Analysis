@@ -1,0 +1,1364 @@
+state,medical_procedure,year,%meeting_benchmark,50th_percentile_days,90th_percentile_days,total_cases
+Alberta,Bladder Cancer Surgery,2013,                                   NA,28,57,477
+Alberta,Bladder Cancer Surgery,2014,                                   NA,29,64,488
+Alberta,Bladder Cancer Surgery,2015,                                   NA,28,70,542
+Alberta,Bladder Cancer Surgery,2016,                                   NA,30,70,448
+Alberta,Bladder Cancer Surgery,2017,                                   NA,30,69,573
+Alberta,Bladder Cancer Surgery,2018,                                   NA,32,73,528
+Alberta,Bladder Cancer Surgery,2019,                                   NA,29,68,1138
+Alberta,Bladder Cancer Surgery,2020,                                   NA,20,63,1008
+Alberta,Bladder Cancer Surgery,2021,                                   NA,26,64,1079
+Alberta,Breast Cancer Surgery,2013,                                   NA,15,40,1169
+Alberta,Breast Cancer Surgery,2014,                                   NA,20,47,1169
+Alberta,Breast Cancer Surgery,2015,                                   NA,20,50,1240
+Alberta,Breast Cancer Surgery,2016,                                   NA,20,49,1074
+Alberta,Breast Cancer Surgery,2017,                                   NA,19,48,1273
+Alberta,Breast Cancer Surgery,2018,                                   NA,20,59,1257
+Alberta,Breast Cancer Surgery,2019,                                   NA,17,36,1927
+Alberta,Breast Cancer Surgery,2020,                                   NA,15,34,1511
+Alberta,Breast Cancer Surgery,2021,                                   NA,18,36,1784
+Alberta,CABG,2008,99,7,83,511
+Alberta,CABG,2009,93,17,156,665
+Alberta,CABG,2010,95,15,133,590
+Alberta,CABG,2011,95,15,134,369
+Alberta,CABG,2012,                                   NA,11,84,466
+Alberta,CABG,2013,                                   NA,12,101,465
+Alberta,CABG,2014,                                   NA,6,60,542
+Alberta,CABG,2015,                                   NA,6,41,540
+Alberta,CABG,2016,                                   NA,6,42,524
+Alberta,CABG,2017,                                   NA,10,56,503
+Alberta,CABG,2018,                                   NA,8,98,533
+Alberta,CABG,2019,                                   NA,7,63,549
+Alberta,CABG,2020,                                   NA,8,118,419
+Alberta,CABG,2021,                                   NA,6,58,474
+Alberta,Cataract Surgery,2008,71,70,199,8662
+Alberta,Cataract Surgery,2009,61,88,270,9148
+Alberta,Cataract Surgery,2010,48,118,331,8453
+Alberta,Cataract Surgery,2011,59,88,275,10301
+Alberta,Cataract Surgery,2012,69,78,209,10557
+Alberta,Cataract Surgery,2013,66,79,212,10514
+Alberta,Cataract Surgery,2014,71,73,202,11348
+Alberta,Cataract Surgery,2015,64,87,224,11145
+Alberta,Cataract Surgery,2016,58,92,243,11770
+Alberta,Cataract Surgery,2017,55.6,99,260,11389
+Alberta,Cataract Surgery,2018,48.7,116,320,11684
+Alberta,Cataract Surgery,2019,44.3,131,356,13409
+Alberta,Cataract Surgery,2020,34.6,183,396,10424
+Alberta,Cataract Surgery,2021,64.2,73,267,14910
+Alberta,Colorectal Cancer Surgery,2013,                                   NA,20,46,476
+Alberta,Colorectal Cancer Surgery,2014,                                   NA,24,56,518
+Alberta,Colorectal Cancer Surgery,2015,                                   NA,27,70,495
+Alberta,Colorectal Cancer Surgery,2016,                                   NA,27,68,419
+Alberta,Colorectal Cancer Surgery,2017,                                   NA,28,67,473
+Alberta,Colorectal Cancer Surgery,2018,                                   NA,23,56,472
+Alberta,Colorectal Cancer Surgery,2019,                                   NA,24,52,739
+Alberta,Colorectal Cancer Surgery,2020,                                   NA,19,48,640
+Alberta,Colorectal Cancer Surgery,2021,                                   NA,22,50,500
+Alberta,CT Scan,2008,                                   NA,10,39,7317
+Alberta,CT Scan,2009,                                   NA,11,34,7317
+Alberta,CT Scan,2010,                                   NA,8,36,7317
+Alberta,CT Scan,2011,                                   NA,13,37,75386
+Alberta,CT Scan,2012,                                   NA,14,36,42978
+Alberta,CT Scan,2013,                                   NA,13,43,65318
+Alberta,CT Scan,2014,                                   NA,12,44,67521
+Alberta,CT Scan,2015,                                   NA,17,56,68400
+Alberta,CT Scan,2016,                                   NA,27,92,80876
+Alberta,CT Scan,2017,                                   NA,30,110,75374
+Alberta,CT Scan,2018,                                   NA,22,114,81297
+Alberta,CT Scan,2019,                                   NA,24,94,83664
+Alberta,CT Scan,2020,                                   NA,31,211,80834
+Alberta,CT Scan,2021,                                   NA,13,88,89238
+Alberta,Hip Fracture Repair,2009,80,26,68,1188
+Alberta,Hip Fracture Repair,2010,81,23,69,1190
+Alberta,Hip Fracture Repair,2011,81,24,65,1173
+Alberta,Hip Fracture Repair,2012,80,24,69,1213
+Alberta,Hip Fracture Repair,2013,85,22,60,1300
+Alberta,Hip Fracture Repair,2014,82,23,61,1373
+Alberta,Hip Fracture Repair,2015,86,22,59,1359
+Alberta,Hip Fracture Repair,2016,91,20,47,1422
+Alberta,Hip Fracture Repair,2017,92.3,19,45,1312
+Alberta,Hip Fracture Repair,2018,94,17,41,1399
+Alberta,Hip Fracture Repair,2019,91.3,18,46,1506
+Alberta,Hip Fracture Repair,2020,92.55,18,44,1464
+Alberta,Hip Fracture Repair,2021,92.22,20,45,1504
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2010,73,31,74,832
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2011,74,30,72,1005
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2012,74,30,74,1048
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2013,76,28,69,1122
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2014,75,30,69,1238
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2015,79,27,65,1201
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2016,86,25,51,1261
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2017,88.5,25,50,1183
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2018,90.34,24,48,1273
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2019,86.66,25,52,1349
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2020,87.52,24,50,1354
+Alberta,Hip Fracture Repair/Emergency and Inpatient,2021,86.87,26,51,1356
+Alberta,Hip Replacement,2008,77,103,255,1478
+Alberta,Hip Replacement,2009,81,93,250,1475
+Alberta,Hip Replacement,2010,78,104,268,1481
+Alberta,Hip Replacement,2011,80,101,290,1673
+Alberta,Hip Replacement,2012,84,90,245,1838
+Alberta,Hip Replacement,2013,80,108,252,1865
+Alberta,Hip Replacement,2014,87,90,204,1890
+Alberta,Hip Replacement,2015,83,93,209,1895
+Alberta,Hip Replacement,2016,82,91,218,2043
+Alberta,Hip Replacement,2017,73.2,121,251,2024
+Alberta,Hip Replacement,2018,70.1,129,265,2250
+Alberta,Hip Replacement,2019,63.8,141,273,2320
+Alberta,Hip Replacement,2020,48.9,187,379,1584
+Alberta,Hip Replacement,2021,59.2,155,392,2160
+Alberta,Knee Replacement,2008,72,123,299,2229
+Alberta,Knee Replacement,2009,71,120,352,2233
+Alberta,Knee Replacement,2010,69,128,344,2342
+Alberta,Knee Replacement,2011,70,124,344,2650
+Alberta,Knee Replacement,2012,79,104,301,2850
+Alberta,Knee Replacement,2013,72,127,294,2962
+Alberta,Knee Replacement,2014,81,99,238,2922
+Alberta,Knee Replacement,2015,79,106,237,3108
+Alberta,Knee Replacement,2016,77,113,253,3174
+Alberta,Knee Replacement,2017,66.6,143,280,3035
+Alberta,Knee Replacement,2018,66.2,131,298,3287
+Alberta,Knee Replacement,2019,62.1,148,315,3176
+Alberta,Knee Replacement,2020,38.9,217,423,2082
+Alberta,Knee Replacement,2021,49.2,186,452,2864
+Alberta,Lung Cancer Surgery,2013,                                   NA,41,85,253
+Alberta,Lung Cancer Surgery,2014,                                   NA,35,68,259
+Alberta,Lung Cancer Surgery,2015,                                   NA,31,62,296
+Alberta,Lung Cancer Surgery,2016,                                   NA,33,63,290
+Alberta,Lung Cancer Surgery,2017,                                   NA,29,57,309
+Alberta,Lung Cancer Surgery,2018,                                   NA,34,69,314
+Alberta,Lung Cancer Surgery,2019,                                   NA,21,47,382
+Alberta,Lung Cancer Surgery,2020,                                   NA,22,49,342
+Alberta,Lung Cancer Surgery,2021,                                   NA,29,60,323
+Alberta,MRI Scan,2008,                                   NA,41,136,40634
+Alberta,MRI Scan,2009,                                   NA,57,189,41866
+Alberta,MRI Scan,2010,                                   NA,39,118,33713
+Alberta,MRI Scan,2011,                                   NA,51,235,52669
+Alberta,MRI Scan,2012,                                   NA,85,261,29240
+Alberta,MRI Scan,2013,                                   NA,80,247,55288
+Alberta,MRI Scan,2014,                                   NA,60,214,61371
+Alberta,MRI Scan,2015,                                   NA,90,172,60651
+Alberta,MRI Scan,2016,                                   NA,85,242,59916
+Alberta,MRI Scan,2017,                                   NA,95,277,60247
+Alberta,MRI Scan,2018,                                   NA,77,279,61701
+Alberta,MRI Scan,2019,                                   NA,72,296,65309
+Alberta,MRI Scan,2020,                                   NA,85,343,56066
+Alberta,MRI Scan,2021,                                   NA,45,255,73208
+Alberta,Prostate Cancer Surgery,2013,                                   NA,41,86,633
+Alberta,Prostate Cancer Surgery,2014,                                   NA,39,87,567
+Alberta,Prostate Cancer Surgery,2015,                                   NA,43,109,546
+Alberta,Prostate Cancer Surgery,2016,                                   NA,48,116,571
+Alberta,Prostate Cancer Surgery,2017,                                   NA,48,122,634
+Alberta,Prostate Cancer Surgery,2018,                                   NA,43,98,676
+Alberta,Prostate Cancer Surgery,2019,                                   NA,45,104,579
+Alberta,Prostate Cancer Surgery,2020,                                   NA,49,162,496
+Alberta,Prostate Cancer Surgery,2021,                                   NA,62,146,472
+Alberta,Radiation Therapy,2009,74,14,38,3335
+Alberta,Radiation Therapy,2010,94,8,26,3290
+Alberta,Radiation Therapy,2011,98,6,22,3465
+Alberta,Radiation Therapy,2012,97,7,22,3564
+Alberta,Radiation Therapy,2013,98,7,21,3556
+Alberta,Radiation Therapy,2014,97,7,23,3732
+Alberta,Radiation Therapy,2015,98,7,20,3897
+Alberta,Radiation Therapy,2016,99,7,20,4071
+Alberta,Radiation Therapy,2017,99,6,18,4065
+Alberta,Radiation Therapy,2018,99.5,7,19,4240
+Alberta,Radiation Therapy,2019,97.6,9,21,4534
+Alberta,Radiation Therapy,2020,98.7,9,20,4605
+Alberta,Radiation Therapy,2021,98.8,9,20,4791
+British Columbia,Bladder Cancer Surgery,2013,                                   NA,22,53,1520
+British Columbia,Bladder Cancer Surgery,2014,                                   NA,22,53,1570
+British Columbia,Bladder Cancer Surgery,2015,                                   NA,22,50,1648
+British Columbia,Bladder Cancer Surgery,2016,                                   NA,22,51,1673
+British Columbia,Bladder Cancer Surgery,2017,                                   NA,22,55,1729
+British Columbia,Bladder Cancer Surgery,2018,                                   NA,24,59,1641
+British Columbia,Bladder Cancer Surgery,2019,                                   NA,23,52,1886
+British Columbia,Bladder Cancer Surgery,2020,                                   NA,20,59,1682
+British Columbia,Bladder Cancer Surgery,2021,                                   NA,25,55,1889
+British Columbia,Breast Cancer Surgery,2013,                                   NA,14,39,1713
+British Columbia,Breast Cancer Surgery,2014,                                   NA,16,42,1825
+British Columbia,Breast Cancer Surgery,2015,                                   NA,16,43,1795
+British Columbia,Breast Cancer Surgery,2016,                                   NA,17,45,1859
+British Columbia,Breast Cancer Surgery,2017,                                   NA,18,48,1900
+British Columbia,Breast Cancer Surgery,2018,                                   NA,19,43,2058
+British Columbia,Breast Cancer Surgery,2019,                                   NA,19,42,1984
+British Columbia,Breast Cancer Surgery,2020,                                   NA,15,41,1769
+British Columbia,Breast Cancer Surgery,2021,                                   NA,18,41,2192
+British Columbia,CABG,2010,99,19,68,931
+British Columbia,CABG,2011,99,3,35,979
+British Columbia,CABG,2012,                                   NA,6,55,884
+British Columbia,CABG,2013,                                   NA,8,80,995
+British Columbia,CABG,2014,                                   NA,6,99,1028
+British Columbia,CABG,2015,                                   NA,5,70,1063
+British Columbia,CABG,2016,                                   NA,8,77,1054
+British Columbia,CABG,2017,                                   NA,7,84,1053
+British Columbia,CABG,2018,                                   NA,6,62,1060
+British Columbia,CABG,2019,                                   NA,6,42,1072
+British Columbia,CABG,2020,                                   NA,4,56,907
+British Columbia,CABG,2021,                                   NA,6,64,922
+British Columbia,Cataract Surgery,2008,78,55,171,22035
+British Columbia,Cataract Surgery,2009,77,49,195,23054
+British Columbia,Cataract Surgery,2010,81,54,158,24059
+British Columbia,Cataract Surgery,2011,78,52,178,25272
+British Columbia,Cataract Surgery,2012,85,39,148,23652
+British Columbia,Cataract Surgery,2013,83,41,154,25140
+British Columbia,Cataract Surgery,2014,70,60,212,25397
+British Columbia,Cataract Surgery,2015,64,72,249,26757
+British Columbia,Cataract Surgery,2016,66,74,243,28155
+British Columbia,Cataract Surgery,2017,62.99,78,251,29701
+British Columbia,Cataract Surgery,2018,64.1,70,253,31978
+British Columbia,Cataract Surgery,2019,68.7,66,231,32766
+British Columbia,Cataract Surgery,2020,52.4,105,306,23197
+British Columbia,Cataract Surgery,2021,76,47,217,38541
+British Columbia,Colorectal Cancer Surgery,2013,                                   NA,16,41,1021
+British Columbia,Colorectal Cancer Surgery,2014,                                   NA,20,49,1211
+British Columbia,Colorectal Cancer Surgery,2015,                                   NA,21,56,1136
+British Columbia,Colorectal Cancer Surgery,2016,                                   NA,21,53,1014
+British Columbia,Colorectal Cancer Surgery,2017,                                   NA,21,57,991
+British Columbia,Colorectal Cancer Surgery,2018,                                   NA,20,52,899
+British Columbia,Colorectal Cancer Surgery,2019,                                   NA,21,52,960
+British Columbia,Colorectal Cancer Surgery,2020,                                   NA,16,46,767
+British Columbia,Colorectal Cancer Surgery,2021,                                   NA,19,45,873
+British Columbia,CT Scan,2018,                                   NA,23,95,140411
+British Columbia,CT Scan,2019,                                   NA,20,100,148133
+British Columbia,CT Scan,2020,                                   NA,21,148,117656
+British Columbia,CT Scan,2021,                                   NA,21,93,152008
+British Columbia,Hip Fracture Repair,2009,83,23,64,1777
+British Columbia,Hip Fracture Repair,2010,80,25,69,2031
+British Columbia,Hip Fracture Repair,2011,76,26,71,1865
+British Columbia,Hip Fracture Repair,2012,81,25,66,1961
+British Columbia,Hip Fracture Repair,2013,83,26,62,2032
+British Columbia,Hip Fracture Repair,2014,89,25,49,2045
+British Columbia,Hip Fracture Repair,2015,91,24,47,2206
+British Columbia,Hip Fracture Repair,2016,86,26,56,1905
+British Columbia,Hip Fracture Repair,2017,84.18,25,60,1966
+British Columbia,Hip Fracture Repair,2018,84.73,27,59,1532
+British Columbia,Hip Fracture Repair,2019,80.23,29,64,2226
+British Columbia,Hip Fracture Repair,2020,80.63,28,65,2370
+British Columbia,Hip Fracture Repair,2021,78.19,31,67,2265
+British Columbia,Hip Replacement,2008,78,71,279,2192
+British Columbia,Hip Replacement,2009,85,73,223,2216
+British Columbia,Hip Replacement,2010,87,79,195,2162
+British Columbia,Hip Replacement,2011,83,98,212,2195
+British Columbia,Hip Replacement,2012,80,97,216,2436
+British Columbia,Hip Replacement,2013,80,91,230,2396
+British Columbia,Hip Replacement,2014,67,126,310,2581
+British Columbia,Hip Replacement,2015,61,140,359,2589
+British Columbia,Hip Replacement,2016,61,141,341,2929
+British Columbia,Hip Replacement,2017,61.8,133,330,2830
+British Columbia,Hip Replacement,2018,67,120,321,3614
+British Columbia,Hip Replacement,2019,76,96,280,3587
+British Columbia,Hip Replacement,2020,57.9,158,329,2466
+British Columbia,Hip Replacement,2021,72.1,102,287,3440
+British Columbia,Knee Replacement,2008,71,102,332,3130
+British Columbia,Knee Replacement,2009,77,85,275,3241
+British Columbia,Knee Replacement,2010,80,101,236,3317
+British Columbia,Knee Replacement,2011,74,122,257,3349
+British Columbia,Knee Replacement,2012,74,124,253,3475
+British Columbia,Knee Replacement,2013,71,118,258,3407
+British Columbia,Knee Replacement,2014,57,160,341,3588
+British Columbia,Knee Replacement,2015,47,197,382,3800
+British Columbia,Knee Replacement,2016,47,192,381,4232
+British Columbia,Knee Replacement,2017,46.4,196,395,4295
+British Columbia,Knee Replacement,2018,59.1,152,358,5457
+British Columbia,Knee Replacement,2019,65.9,123,323,5341
+British Columbia,Knee Replacement,2020,50,183,384,3569
+British Columbia,Knee Replacement,2021,68.2,119,335,4604
+British Columbia,Lung Cancer Surgery,2013,                                   NA,18,47,319
+British Columbia,Lung Cancer Surgery,2014,                                   NA,20,48,405
+British Columbia,Lung Cancer Surgery,2015,                                   NA,18,49,339
+British Columbia,Lung Cancer Surgery,2016,                                   NA,19,50,375
+British Columbia,Lung Cancer Surgery,2017,                                   NA,27,62,407
+British Columbia,Lung Cancer Surgery,2018,                                   NA,25,62,420
+British Columbia,Lung Cancer Surgery,2019,                                   NA,22,59,491
+British Columbia,Lung Cancer Surgery,2020,                                   NA,17,42,454
+British Columbia,Lung Cancer Surgery,2021,                                   NA,21,44,473
+British Columbia,MRI Scan,2018,                                   NA,45,216,74045
+British Columbia,MRI Scan,2019,                                   NA,43,151,83988
+British Columbia,MRI Scan,2020,                                   NA,70,208,62815
+British Columbia,MRI Scan,2021,                                   NA,42,133,96834
+British Columbia,Prostate Cancer Surgery,2013,                                   NA,36,74,463
+British Columbia,Prostate Cancer Surgery,2014,                                   NA,29,74,423
+British Columbia,Prostate Cancer Surgery,2015,                                   NA,33,66,395
+British Columbia,Prostate Cancer Surgery,2016,                                   NA,36,80,406
+British Columbia,Prostate Cancer Surgery,2017,                                   NA,39,78,493
+British Columbia,Prostate Cancer Surgery,2018,                                   NA,40,84,521
+British Columbia,Prostate Cancer Surgery,2019,                                   NA,42,84,516
+British Columbia,Prostate Cancer Surgery,2020,                                   NA,30,94,502
+British Columbia,Prostate Cancer Surgery,2021,                                   NA,37,84,483
+British Columbia,Radiation Therapy,2010,92,8,25,5862
+British Columbia,Radiation Therapy,2011,93,8,25,5875
+British Columbia,Radiation Therapy,2012,94,8,22,6014
+British Columbia,Radiation Therapy,2013,94,7,22,5827
+British Columbia,Radiation Therapy,2014,95,7,22,6175
+British Columbia,Radiation Therapy,2015,93,8,25,7029
+British Columbia,Radiation Therapy,2016,91,8,27,6585
+British Columbia,Radiation Therapy,2017,93.21,9,25,6143
+British Columbia,Radiation Therapy,2018,93,9,27,6170
+British Columbia,Radiation Therapy,2019,91,10,27,6510
+British Columbia,Radiation Therapy,2020,90,12,28,6596
+British Columbia,Radiation Therapy,2021,88,13,31,6428
+Manitoba,Breast Cancer Surgery,2013,                                   NA,27,49,278
+Manitoba,Breast Cancer Surgery,2014,                                   NA,22,43,252
+Manitoba,Breast Cancer Surgery,2015,                                   NA,27,46,253
+Manitoba,Breast Cancer Surgery,2016,                                   NA,23,40,147
+Manitoba,Breast Cancer Surgery,2017,                                   NA,21,43,142
+Manitoba,Breast Cancer Surgery,2018,                                   NA,22,46,236
+Manitoba,Breast Cancer Surgery,2019,                                   NA,28,59,207
+Manitoba,Breast Cancer Surgery,2020,                                   NA,22,67,199
+Manitoba,Breast Cancer Surgery,2021,                                   NA,21,57,341
+Manitoba,CABG,2008,96,17,119,428
+Manitoba,CABG,2009,100,13,107,407
+Manitoba,CABG,2010,99,14,82,386
+Manitoba,CABG,2011,97,15,110,357
+Manitoba,CABG,2012,                                   NA,12,67,232
+Manitoba,CABG,2013,                                   NA,11,94,213
+Manitoba,CABG,2014,                                   NA,12,121,203
+Manitoba,CABG,2015,                                   NA,9,40,217
+Manitoba,CABG,2016,                                   NA,9,45,203
+Manitoba,CABG,2017,                                   NA,9,41,218
+Manitoba,CABG,2018,                                   NA,8,34,182
+Manitoba,CABG,2019,                                   NA,8,76,205
+Manitoba,CABG,2020,                                   NA,7,41,165
+Manitoba,CABG,2021,                                   NA,7,65,149
+Manitoba,Cataract Surgery,2008,77,75,151,4215
+Manitoba,Cataract Surgery,2009,80,82,161,4320
+Manitoba,Cataract Surgery,2010,70,82,179,4296
+Manitoba,Cataract Surgery,2011,71,76,169,4519
+Manitoba,Cataract Surgery,2012,61,87,257,4541
+Manitoba,Cataract Surgery,2013,62,86,247,4975
+Manitoba,Cataract Surgery,2014,63,78,205,4292
+Manitoba,Cataract Surgery,2015,41,122,239,3173
+Manitoba,Cataract Surgery,2016,34,148,289,2915
+Manitoba,Cataract Surgery,2017,32,155,409,3076
+Manitoba,Cataract Surgery,2018,29,167,378,2962
+Manitoba,Cataract Surgery,2019,33,162,422,3769
+Manitoba,Cataract Surgery,2020,21,214,448,2646
+Manitoba,Cataract Surgery,2021,39,141,516,3031
+Manitoba,CT Scan,2011,                                   NA,16,35,21118
+Manitoba,CT Scan,2012,                                   NA,16,41,26202
+Manitoba,CT Scan,2013,                                   NA,18,47,33268
+Manitoba,CT Scan,2014,                                   NA,16,40,35046
+Manitoba,CT Scan,2015,                                   NA,18,28,22292
+Manitoba,CT Scan,2016,                                   NA,21,79,40439
+Manitoba,CT Scan,2017,                                   NA,19,77,46568
+Manitoba,CT Scan,2018,                                   NA,20,76,52503
+Manitoba,CT Scan,2019,                                   NA,23,80,54206
+Manitoba,CT Scan,2020,                                   NA,21,114,43330
+Manitoba,CT Scan,2021,                                   NA,28,112,58051
+Manitoba,Hip Fracture Repair,2009,78,26,76,573
+Manitoba,Hip Fracture Repair,2010,82,22,70,538
+Manitoba,Hip Fracture Repair,2011,85,22,57,612
+Manitoba,Hip Fracture Repair,2012,86,20,63,585
+Manitoba,Hip Fracture Repair,2013,89,20,50,557
+Manitoba,Hip Fracture Repair,2014,91,20,47,487
+Manitoba,Hip Fracture Repair,2015,92,19,46,543
+Manitoba,Hip Fracture Repair,2016,91,19,45,575
+Manitoba,Hip Fracture Repair,2017,93.3,20,42,552
+Manitoba,Hip Fracture Repair,2018,92.13,19,43,559
+Manitoba,Hip Fracture Repair,2019,93.08,19,44,607
+Manitoba,Hip Fracture Repair,2020,91.48,18,45,610
+Manitoba,Hip Fracture Repair,2021,89.1,20,51,587
+Manitoba,Hip Replacement,2008,64,139,362,646
+Manitoba,Hip Replacement,2009,63,124,335,564
+Manitoba,Hip Replacement,2010,61,141,365,730
+Manitoba,Hip Replacement,2011,59,146,382,662
+Manitoba,Hip Replacement,2012,56,160,346,665
+Manitoba,Hip Replacement,2013,68,119,299,628
+Manitoba,Hip Replacement,2014,71,104,248,660
+Manitoba,Hip Replacement,2015,69,118,339,633
+Manitoba,Hip Replacement,2016,66,136,348,697
+Manitoba,Hip Replacement,2017,53,169,414,710
+Manitoba,Hip Replacement,2018,49,186,413,748
+Manitoba,Hip Replacement,2019,55,163,368,842
+Manitoba,Hip Replacement,2020,47,196,389,719
+Manitoba,Hip Replacement,2021,55,169,444,687
+Manitoba,Knee Replacement,2008,52,174,479,1052
+Manitoba,Knee Replacement,2009,56,160,470,878
+Manitoba,Knee Replacement,2010,53,172,420,976
+Manitoba,Knee Replacement,2011,52,176,420,1049
+Manitoba,Knee Replacement,2012,46,198,397,1015
+Manitoba,Knee Replacement,2013,58,157,344,1127
+Manitoba,Knee Replacement,2014,71,112,274,1058
+Manitoba,Knee Replacement,2015,64,138,363,1000
+Manitoba,Knee Replacement,2016,58,160,412,1084
+Manitoba,Knee Replacement,2017,43,203,435,1148
+Manitoba,Knee Replacement,2018,37,230,451,1258
+Manitoba,Knee Replacement,2019,46,203,418,1372
+Manitoba,Knee Replacement,2020,37,238,463,1150
+Manitoba,Knee Replacement,2021,38,237,566,926
+Manitoba,Lung Cancer Surgery,2013,                                   NA,19,42,207
+Manitoba,Lung Cancer Surgery,2014,                                   NA,20,35,147
+Manitoba,Lung Cancer Surgery,2015,                                   NA,24,34,73
+Manitoba,Lung Cancer Surgery,2016,                                   NA,25,47,116
+Manitoba,Lung Cancer Surgery,2017,                                   NA,24,41,89
+Manitoba,Lung Cancer Surgery,2018,                                   NA,24,58,159
+Manitoba,Lung Cancer Surgery,2019,                                   NA,34,58,163
+Manitoba,Lung Cancer Surgery,2020,                                   NA,25,75,127
+Manitoba,Lung Cancer Surgery,2021,                                   NA,22,47,104
+Manitoba,MRI Scan,2011,                                   NA,55,119,20652
+Manitoba,MRI Scan,2012,                                   NA,43,99,23036
+Manitoba,MRI Scan,2013,                                   NA,70,127,23848
+Manitoba,MRI Scan,2014,                                   NA,82,167,26505
+Manitoba,MRI Scan,2015,                                   NA,99,189,21277
+Manitoba,MRI Scan,2016,                                   NA,110,196,26183
+Manitoba,MRI Scan,2017,                                   NA,76,219,33945
+Manitoba,MRI Scan,2018,                                   NA,56,156,38745
+Manitoba,MRI Scan,2019,                                   NA,55,133,37810
+Manitoba,MRI Scan,2020,                                   NA,83,204,27630
+Manitoba,MRI Scan,2021,                                   NA,66,220,38298
+Manitoba,Radiation Therapy,2008,99,5,23,1507
+Manitoba,Radiation Therapy,2009,100,6,25,1418
+Manitoba,Radiation Therapy,2010,100,6,24,1293
+Manitoba,Radiation Therapy,2011,100,6,23,1385
+Manitoba,Radiation Therapy,2012,100,6,22,1550
+Manitoba,Radiation Therapy,2013,100,7,22,1563
+Manitoba,Radiation Therapy,2014,100,7,21,1564
+Manitoba,Radiation Therapy,2015,100,7,22,1607
+Manitoba,Radiation Therapy,2016,100,10,22,1503
+Manitoba,Radiation Therapy,2017,100,12,25,1656
+Manitoba,Radiation Therapy,2018,100,9,25,1741
+Manitoba,Radiation Therapy,2019,100,9,26,1804
+Manitoba,Radiation Therapy,2020,100,9,24,1850
+Manitoba,Radiation Therapy,2021,100,13,23,1780
+New Brunswick,Bladder Cancer Surgery,2013,                                   NA,17,53,236
+New Brunswick,Bladder Cancer Surgery,2014,                                   NA,24,62,255
+New Brunswick,Bladder Cancer Surgery,2015,                                   NA,25,54,258
+New Brunswick,Bladder Cancer Surgery,2016,                                   NA,31,71,258
+New Brunswick,Bladder Cancer Surgery,2017,                                   NA,30,74,238
+New Brunswick,Bladder Cancer Surgery,2018,                                   NA,29,65,269
+New Brunswick,Bladder Cancer Surgery,2019,                                   NA,25,73,251
+New Brunswick,Bladder Cancer Surgery,2020,                                   NA,25,92,249
+New Brunswick,Bladder Cancer Surgery,2021,                                   NA,27,58,267
+New Brunswick,Breast Cancer Surgery,2013,                                   NA,8,24,390
+New Brunswick,Breast Cancer Surgery,2014,                                   NA,20,42,386
+New Brunswick,Breast Cancer Surgery,2015,                                   NA,19,41,394
+New Brunswick,Breast Cancer Surgery,2016,                                   NA,19,42,342
+New Brunswick,Breast Cancer Surgery,2017,                                   NA,22,47,358
+New Brunswick,Breast Cancer Surgery,2018,                                   NA,23,43,378
+New Brunswick,Breast Cancer Surgery,2019,                                   NA,20,48,333
+New Brunswick,Breast Cancer Surgery,2020,                                   NA,20,43,287
+New Brunswick,Breast Cancer Surgery,2021,                                   NA,23,43,402
+New Brunswick,CABG,2008,95,3,131,214
+New Brunswick,CABG,2009,98,6,111,218
+New Brunswick,CABG,2010,100,5,63,234
+New Brunswick,CABG,2011,99,7,57,204
+New Brunswick,CABG,2012,                                   NA,5,52,189
+New Brunswick,CABG,2013,                                   NA,4,74,228
+New Brunswick,CABG,2014,                                   NA,8,116,226
+New Brunswick,CABG,2015,                                   NA,8,129,216
+New Brunswick,CABG,2016,                                   NA,10,175,204
+New Brunswick,CABG,2017,                                   NA,8,183,239
+New Brunswick,CABG,2018,                                   NA,8,141,234
+New Brunswick,CABG,2019,                                   NA,8,148,215
+New Brunswick,CABG,2020,                                   NA,8,183,216
+New Brunswick,CABG,2021,                                   NA,8,118,198
+New Brunswick,Cataract Surgery,2008,74,57,194,4460
+New Brunswick,Cataract Surgery,2009,84,45,135,4634
+New Brunswick,Cataract Surgery,2010,89,44,119,4712
+New Brunswick,Cataract Surgery,2011,85,35,158,5108
+New Brunswick,Cataract Surgery,2012,85,33,160,4948
+New Brunswick,Cataract Surgery,2013,88,25,134,5214
+New Brunswick,Cataract Surgery,2014,86,43,137,5320
+New Brunswick,Cataract Surgery,2015,80,48,161,5362
+New Brunswick,Cataract Surgery,2016,68,64,194,5310
+New Brunswick,Cataract Surgery,2017,73,55,218,5682
+New Brunswick,Cataract Surgery,2018,67,58,230,5678
+New Brunswick,Cataract Surgery,2019,66,70,226,5908
+New Brunswick,Cataract Surgery,2020,53,98,292,4540
+New Brunswick,Cataract Surgery,2021,71,51,222,6147
+New Brunswick,Colorectal Cancer Surgery,2013,                                   NA,13,32,259
+New Brunswick,Colorectal Cancer Surgery,2014,                                   NA,15,45,238
+New Brunswick,Colorectal Cancer Surgery,2015,                                   NA,20,44,239
+New Brunswick,Colorectal Cancer Surgery,2016,                                   NA,21,48,221
+New Brunswick,Colorectal Cancer Surgery,2017,                                   NA,22,44,216
+New Brunswick,Colorectal Cancer Surgery,2018,                                   NA,22,43,237
+New Brunswick,Colorectal Cancer Surgery,2019,                                   NA,22,48,212
+New Brunswick,Colorectal Cancer Surgery,2020,                                   NA,17,46,173
+New Brunswick,Colorectal Cancer Surgery,2021,                                   NA,23,50,211
+New Brunswick,Hip Fracture Repair,2009,82,19,69,323
+New Brunswick,Hip Fracture Repair,2010,78,21,79,355
+New Brunswick,Hip Fracture Repair,2011,83,20,66,344
+New Brunswick,Hip Fracture Repair,2012,80,19,72,343
+New Brunswick,Hip Fracture Repair,2013,84,20,54,355
+New Brunswick,Hip Fracture Repair,2014,83,19,66,363
+New Brunswick,Hip Fracture Repair,2015,86,21,58,407
+New Brunswick,Hip Fracture Repair,2016,89,19,52,361
+New Brunswick,Hip Fracture Repair,2017,89.74,17,48,390
+New Brunswick,Hip Fracture Repair,2018,90.48,19,47,336
+New Brunswick,Hip Fracture Repair,2019,89.22,18,49,436
+New Brunswick,Hip Fracture Repair,2020,91.11,18,47,371
+New Brunswick,Hip Fracture Repair,2021,83.46,22,58,387
+New Brunswick,Hip Replacement,2008,66,140,309,300
+New Brunswick,Hip Replacement,2009,76,94,250,315
+New Brunswick,Hip Replacement,2010,79,86,232,312
+New Brunswick,Hip Replacement,2011,72,120,327,375
+New Brunswick,Hip Replacement,2012,72,112,290,369
+New Brunswick,Hip Replacement,2013,69,109,336,389
+New Brunswick,Hip Replacement,2014,65,127,383,366
+New Brunswick,Hip Replacement,2015,62,134,456,424
+New Brunswick,Hip Replacement,2016,55,164,406,505
+New Brunswick,Hip Replacement,2017,56,162,386,508
+New Brunswick,Hip Replacement,2018,55,170,406,509
+New Brunswick,Hip Replacement,2019,48,195,378,532
+New Brunswick,Hip Replacement,2020,29,268,547,446
+New Brunswick,Hip Replacement,2021,54,168,484,572
+New Brunswick,Knee Replacement,2008,55,167,408,538
+New Brunswick,Knee Replacement,2009,63,137,340,575
+New Brunswick,Knee Replacement,2010,67,119,314,543
+New Brunswick,Knee Replacement,2011,53,172,389,684
+New Brunswick,Knee Replacement,2012,61,143,340,665
+New Brunswick,Knee Replacement,2013,60,143,352,682
+New Brunswick,Knee Replacement,2014,48,188,480,731
+New Brunswick,Knee Replacement,2015,55,161,400,841
+New Brunswick,Knee Replacement,2016,50,180,480,925
+New Brunswick,Knee Replacement,2017,46,201,451,903
+New Brunswick,Knee Replacement,2018,43,209,510,935
+New Brunswick,Knee Replacement,2019,44,197,485,938
+New Brunswick,Knee Replacement,2020,25,296,568,650
+New Brunswick,Knee Replacement,2021,45,207,499,915
+New Brunswick,Lung Cancer Surgery,2013,                                   NA,14,35,87
+New Brunswick,Lung Cancer Surgery,2014,                                   NA,18,52,85
+New Brunswick,Lung Cancer Surgery,2015,                                   NA,33,61,88
+New Brunswick,Lung Cancer Surgery,2016,                                   NA,29,54,102
+New Brunswick,Lung Cancer Surgery,2017,                                   NA,35,55,96
+New Brunswick,Lung Cancer Surgery,2018,                                   NA,26,72,84
+New Brunswick,Lung Cancer Surgery,2019,                                   NA,33,67,71
+New Brunswick,Lung Cancer Surgery,2020,                                   NA,32,68,76
+New Brunswick,Lung Cancer Surgery,2021,                                   NA,24,41,72
+New Brunswick,Prostate Cancer Surgery,2013,                                   NA,20,65,60
+New Brunswick,Prostate Cancer Surgery,2014,                                   NA,36,69,71
+New Brunswick,Prostate Cancer Surgery,2015,                                   NA,43,78,68
+New Brunswick,Prostate Cancer Surgery,2016,                                   NA,39,90,85
+New Brunswick,Prostate Cancer Surgery,2017,                                   NA,39,84,87
+New Brunswick,Prostate Cancer Surgery,2018,                                   NA,33,99,76
+New Brunswick,Prostate Cancer Surgery,2019,                                   NA,31,71,84
+New Brunswick,Prostate Cancer Surgery,2020,                                   NA,43,99,65
+New Brunswick,Prostate Cancer Surgery,2021,                                   NA,39,76,82
+New Brunswick,Radiation Therapy,2012,94,7,24,1023
+New Brunswick,Radiation Therapy,2013,97,7,20,1052
+New Brunswick,Radiation Therapy,2014,97,7,19,931
+New Brunswick,Radiation Therapy,2015,99,6,17,825
+New Brunswick,Radiation Therapy,2016,98,7,19,947
+New Brunswick,Radiation Therapy,2017,96.9,8,20,973
+New Brunswick,Radiation Therapy,2018,95.2,11,24,1019
+New Brunswick,Radiation Therapy,2019,92.8,12,27,1048
+New Brunswick,Radiation Therapy,2020,95.3,10,23,1034
+New Brunswick,Radiation Therapy,2021,91.6,13,28,1159
+Newfoundland and Labrador,Bladder Cancer Surgery,2013,                                   NA,19,47,117
+Newfoundland and Labrador,Bladder Cancer Surgery,2014,                                   NA,26,46,123
+Newfoundland and Labrador,Bladder Cancer Surgery,2015,                                   NA,24,53,156
+Newfoundland and Labrador,Bladder Cancer Surgery,2016,                                   NA,23,48,135
+Newfoundland and Labrador,Bladder Cancer Surgery,2017,                                   NA,21,43,162
+Newfoundland and Labrador,Bladder Cancer Surgery,2018,                                   NA,23,39,126
+Newfoundland and Labrador,Bladder Cancer Surgery,2019,                                   NA,21,41,108
+Newfoundland and Labrador,Bladder Cancer Surgery,2020,                                   NA,20,51,114
+Newfoundland and Labrador,Bladder Cancer Surgery,2021,                                   NA,20,39,124
+Newfoundland and Labrador,Breast Cancer Surgery,2013,                                   NA,13,27,153
+Newfoundland and Labrador,Breast Cancer Surgery,2014,                                   NA,14,27,223
+Newfoundland and Labrador,Breast Cancer Surgery,2015,                                   NA,15,29,257
+Newfoundland and Labrador,Breast Cancer Surgery,2016,                                   NA,17,29,282
+Newfoundland and Labrador,Breast Cancer Surgery,2017,                                   NA,14,26,224
+Newfoundland and Labrador,Breast Cancer Surgery,2018,                                   NA,19,45,230
+Newfoundland and Labrador,Breast Cancer Surgery,2019,                                   NA,16,35,220
+Newfoundland and Labrador,Breast Cancer Surgery,2020,                                   NA,14,30,165
+Newfoundland and Labrador,Breast Cancer Surgery,2021,                                   NA,16,29,192
+Newfoundland and Labrador,CABG,2009,98,8,136,185
+Newfoundland and Labrador,CABG,2010,100,9,84,179
+Newfoundland and Labrador,CABG,2011,100,5,48,184
+Newfoundland and Labrador,CABG,2012,                                   NA,6,69,156
+Newfoundland and Labrador,CABG,2013,                                   NA,9,43,159
+Newfoundland and Labrador,CABG,2014,                                   NA,8,111,155
+Newfoundland and Labrador,CABG,2015,                                   NA,9,134,149
+Newfoundland and Labrador,CABG,2016,                                   NA,6,83,152
+Newfoundland and Labrador,CABG,2017,                                   NA,6,58,178
+Newfoundland and Labrador,CABG,2018,                                   NA,6,103,175
+Newfoundland and Labrador,CABG,2019,                                   NA,9,149,182
+Newfoundland and Labrador,CABG,2020,                                   NA,9,42,116
+Newfoundland and Labrador,CABG,2021,                                   NA,13,245,192
+Newfoundland and Labrador,Cataract Surgery,2010,80,58,144,2256
+Newfoundland and Labrador,Cataract Surgery,2011,71,73,176,1427
+Newfoundland and Labrador,Cataract Surgery,2012,82,52,149,2484
+Newfoundland and Labrador,Cataract Surgery,2013,95,35,103,1278
+Newfoundland and Labrador,Cataract Surgery,2014,96,39,95,1479
+Newfoundland and Labrador,Cataract Surgery,2015,96,40,97,1761
+Newfoundland and Labrador,Cataract Surgery,2016,90,65,112,2053
+Newfoundland and Labrador,Cataract Surgery,2017,87,63,118,1610
+Newfoundland and Labrador,Cataract Surgery,2018,77,85,153,1493
+Newfoundland and Labrador,Cataract Surgery,2019,63,95,209,1263
+Newfoundland and Labrador,Cataract Surgery,2020,33,264,474,527
+Newfoundland and Labrador,Cataract Surgery,2021,42,146,279,1077
+Newfoundland and Labrador,Colorectal Cancer Surgery,2013,                                   NA,14,34,136
+Newfoundland and Labrador,Colorectal Cancer Surgery,2014,                                   NA,15,29,231
+Newfoundland and Labrador,Colorectal Cancer Surgery,2015,                                   NA,13,32,265
+Newfoundland and Labrador,Colorectal Cancer Surgery,2016,                                   NA,13,26,237
+Newfoundland and Labrador,Colorectal Cancer Surgery,2017,                                   NA,12,28,195
+Newfoundland and Labrador,Colorectal Cancer Surgery,2018,                                   NA,14,30,186
+Newfoundland and Labrador,Colorectal Cancer Surgery,2019,                                   NA,15,35,177
+Newfoundland and Labrador,Colorectal Cancer Surgery,2020,                                   NA,12,33,122
+Newfoundland and Labrador,Colorectal Cancer Surgery,2021,                                   NA,14,32,171
+Newfoundland and Labrador,Hip Fracture Repair,2011,87,22,54,227
+Newfoundland and Labrador,Hip Fracture Repair,2012,81,26,62,182
+Newfoundland and Labrador,Hip Fracture Repair,2013,82,19,64,185
+Newfoundland and Labrador,Hip Fracture Repair,2014,75,30,93,188
+Newfoundland and Labrador,Hip Fracture Repair,2015,85,22,64,234
+Newfoundland and Labrador,Hip Fracture Repair,2016,90,20,48,181
+Newfoundland and Labrador,Hip Fracture Repair,2017,87.15,20,50,249
+Newfoundland and Labrador,Hip Fracture Repair,2018,90.32,20,45,155
+Newfoundland and Labrador,Hip Fracture Repair,2019,85.43,21,60,247
+Newfoundland and Labrador,Hip Fracture Repair,2020,85.66,25,65,258
+Newfoundland and Labrador,Hip Fracture Repair,2021,90.05,24,47,201
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2010,78,26,60,188
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2011,91,24,48,229
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2012,88,30,49,210
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2013,85,26,51,217
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2014,84,27,52,227
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2015,92,24,46,238
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2016,97,22,44,233
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2017,92,22,46,250
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2018,99,21,38,221
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2019,98,22,37,195
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2020,95,25,44,174
+Newfoundland and Labrador,Hip Fracture Repair/Emergency and Inpatient,2021,99,23,39,175
+Newfoundland and Labrador,Hip Replacement,2010,75,90,360,143
+Newfoundland and Labrador,Hip Replacement,2011,82,93,334,206
+Newfoundland and Labrador,Hip Replacement,2012,83,89,260,195
+Newfoundland and Labrador,Hip Replacement,2013,92,82,177,243
+Newfoundland and Labrador,Hip Replacement,2014,96,86,161,248
+Newfoundland and Labrador,Hip Replacement,2015,94,83,173,245
+Newfoundland and Labrador,Hip Replacement,2016,77,100,241,252
+Newfoundland and Labrador,Hip Replacement,2017,84,81,225,304
+Newfoundland and Labrador,Hip Replacement,2018,88,92,187,279
+Newfoundland and Labrador,Hip Replacement,2019,76,113,229,303
+Newfoundland and Labrador,Hip Replacement,2020,45,204,380,163
+Newfoundland and Labrador,Hip Replacement,2021,57,165,502,241
+Newfoundland and Labrador,Knee Replacement,2010,67,113,438,358
+Newfoundland and Labrador,Knee Replacement,2011,62,139,469,413
+Newfoundland and Labrador,Knee Replacement,2012,81,105,250,438
+Newfoundland and Labrador,Knee Replacement,2013,93,77,170,439
+Newfoundland and Labrador,Knee Replacement,2014,92,98,176,402
+Newfoundland and Labrador,Knee Replacement,2015,87,99,186,447
+Newfoundland and Labrador,Knee Replacement,2016,70,127,269,498
+Newfoundland and Labrador,Knee Replacement,2017,66,145,291,527
+Newfoundland and Labrador,Knee Replacement,2018,75,132,248,521
+Newfoundland and Labrador,Knee Replacement,2019,72,133,280,546
+Newfoundland and Labrador,Knee Replacement,2020,21,286,461,229
+Newfoundland and Labrador,Knee Replacement,2021,44,210,589,360
+Newfoundland and Labrador,Lung Cancer Surgery,2017,                                   NA,23,53,49
+Newfoundland and Labrador,Lung Cancer Surgery,2018,                                   NA,27,53,51
+Newfoundland and Labrador,Lung Cancer Surgery,2019,                                   NA,20,41,45
+Newfoundland and Labrador,Lung Cancer Surgery,2020,                                   NA,19,34,32
+Newfoundland and Labrador,Lung Cancer Surgery,2021,                                   NA,19,32,33
+Newfoundland and Labrador,Prostate Cancer Surgery,2013,                                   NA,31,53,69
+Newfoundland and Labrador,Prostate Cancer Surgery,2014,                                   NA,32,64,62
+Newfoundland and Labrador,Prostate Cancer Surgery,2015,                                   NA,37,72,69
+Newfoundland and Labrador,Prostate Cancer Surgery,2016,                                   NA,27,62,68
+Newfoundland and Labrador,Prostate Cancer Surgery,2017,                                   NA,34,49,53
+Newfoundland and Labrador,Prostate Cancer Surgery,2018,                                   NA,36,67,67
+Newfoundland and Labrador,Prostate Cancer Surgery,2019,                                   NA,43,62,67
+Newfoundland and Labrador,Prostate Cancer Surgery,2020,                                   NA,51,128,48
+Newfoundland and Labrador,Prostate Cancer Surgery,2021,                                   NA,36,75,60
+Newfoundland and Labrador,Radiation Therapy,2009,88,9,33,811
+Newfoundland and Labrador,Radiation Therapy,2010,94,14,27,382
+Newfoundland and Labrador,Radiation Therapy,2011,96,14,26,500
+Newfoundland and Labrador,Radiation Therapy,2012,98,8,19,410
+Newfoundland and Labrador,Radiation Therapy,2013,97,14,25,384
+Newfoundland and Labrador,Radiation Therapy,2014,98,14,23,368
+Newfoundland and Labrador,Radiation Therapy,2015,99,13,20,357
+Newfoundland and Labrador,Radiation Therapy,2016,100,12,20,393
+Newfoundland and Labrador,Radiation Therapy,2017,100,12,20,428
+Newfoundland and Labrador,Radiation Therapy,2018,100,14,22,867
+Newfoundland and Labrador,Radiation Therapy,2019,100,16,22,515
+Newfoundland and Labrador,Radiation Therapy,2020,99,16,22,528
+Newfoundland and Labrador,Radiation Therapy,2021,99,15,21,534
+Nova Scotia,Bladder Cancer Surgery,2013,                                   NA,41,189,466
+Nova Scotia,Bladder Cancer Surgery,2014,                                   NA,35,91,356
+Nova Scotia,Bladder Cancer Surgery,2015,                                   NA,34,97,364
+Nova Scotia,Bladder Cancer Surgery,2016,                                   NA,62,151,17994
+Nova Scotia,Bladder Cancer Surgery,2017,                                   NA,28,76,363
+Nova Scotia,Bladder Cancer Surgery,2018,                                   NA,34,91,364
+Nova Scotia,Bladder Cancer Surgery,2019,                                   NA,34,80,347
+Nova Scotia,Bladder Cancer Surgery,2020,                                   NA,28,122,333
+Nova Scotia,Bladder Cancer Surgery,2021,                                   NA,30,91,440
+Nova Scotia,Breast Cancer Surgery,2013,                                   NA,24,36,456
+Nova Scotia,Breast Cancer Surgery,2014,                                   NA,16,36,495
+Nova Scotia,Breast Cancer Surgery,2015,                                   NA,16,36,496
+Nova Scotia,Breast Cancer Surgery,2016,                                   NA,43,124,15871
+Nova Scotia,Breast Cancer Surgery,2017,                                   NA,16,41,420
+Nova Scotia,Breast Cancer Surgery,2018,                                   NA,16,37,426
+Nova Scotia,Breast Cancer Surgery,2019,                                   NA,22,42,513
+Nova Scotia,Breast Cancer Surgery,2020,                                   NA,16,35,338
+Nova Scotia,Breast Cancer Surgery,2021,                                   NA,16,37,488
+Nova Scotia,CABG,2008,100,26,65,91
+Nova Scotia,CABG,2009,100,63,117,118
+Nova Scotia,CABG,2010,100,5,23,159
+Nova Scotia,CABG,2011,100,10,77,201
+Nova Scotia,CABG,2012,                                   NA,5,58,206
+Nova Scotia,CABG,2013,                                   NA,6,30,208
+Nova Scotia,CABG,2014,                                   NA,6,61,155
+Nova Scotia,CABG,2015,                                   NA,9,92,158
+Nova Scotia,CABG,2016,                                   NA,7,66,163
+Nova Scotia,CABG,2017,                                   NA,8,30,154
+Nova Scotia,CABG,2018,                                   NA,3,27,148
+Nova Scotia,CABG,2019,                                   NA,7,43,131
+Nova Scotia,CABG,2020,                                   NA,9,94,138
+Nova Scotia,CABG,2021,                                   NA,7,84,160
+Nova Scotia,Cataract Surgery,2008,75,54,199,4686
+Nova Scotia,Cataract Surgery,2009,69,67,210,4835
+Nova Scotia,Cataract Surgery,2010,67,69,206,5136
+Nova Scotia,Cataract Surgery,2011,54,115,292,3663
+Nova Scotia,Cataract Surgery,2012,58,102,293,3809
+Nova Scotia,Cataract Surgery,2013,62,93,265,4089
+Nova Scotia,Cataract Surgery,2014,65,85,206,3865
+Nova Scotia,Cataract Surgery,2015,64,93,220,3637
+Nova Scotia,Cataract Surgery,2016,65,92,214,4004
+Nova Scotia,Cataract Surgery,2017,66,90,211,4047
+Nova Scotia,Cataract Surgery,2018,68,76,229,3795
+Nova Scotia,Cataract Surgery,2019,60,92,250,3702
+Nova Scotia,Cataract Surgery,2020,32,185,394,2031
+Nova Scotia,Cataract Surgery,2021,62.4,88,255,3899
+Nova Scotia,Colorectal Cancer Surgery,2013,                                   NA,24,58,304
+Nova Scotia,Colorectal Cancer Surgery,2014,                                   NA,24,60,282
+Nova Scotia,Colorectal Cancer Surgery,2015,                                   NA,26,55,271
+Nova Scotia,Colorectal Cancer Surgery,2016,                                   NA,63,199,17657
+Nova Scotia,Colorectal Cancer Surgery,2017,                                   NA,21,55,256
+Nova Scotia,Colorectal Cancer Surgery,2018,                                   NA,24,58,243
+Nova Scotia,Colorectal Cancer Surgery,2019,                                   NA,26,51,264
+Nova Scotia,Colorectal Cancer Surgery,2020,                                   NA,24,59,184
+Nova Scotia,Colorectal Cancer Surgery,2021,                                   NA,22,53,241
+Nova Scotia,CT Scan,2009,                                   NA,18,76,23018
+Nova Scotia,CT Scan,2010,                                   NA,24,87,35336
+Nova Scotia,CT Scan,2011,                                   NA,20,75,29952
+Nova Scotia,CT Scan,2012,                                   NA,17,66,50988
+Nova Scotia,CT Scan,2013,                                   NA,20,66,53432
+Nova Scotia,CT Scan,2014,                                   NA,21,63,54544
+Nova Scotia,CT Scan,2015,                                   NA,20,78,55527
+Nova Scotia,CT Scan,2016,                                   NA,24,77,58646
+Nova Scotia,CT Scan,2017,                                   NA,28,89,57686
+Nova Scotia,CT Scan,2018,                                   NA,28,88,62636
+Nova Scotia,CT Scan,2019,                                   NA,25,82,61741
+Nova Scotia,CT Scan,2020,                                   NA,21,154,40292
+Nova Scotia,CT Scan,2021,                                   NA,28,121,62866
+Nova Scotia,Hip Fracture Repair,2009,82,21,69,262
+Nova Scotia,Hip Fracture Repair,2010,78,22,83,472
+Nova Scotia,Hip Fracture Repair,2011,79,21,72,396
+Nova Scotia,Hip Fracture Repair,2012,76,24,77,407
+Nova Scotia,Hip Fracture Repair,2013,82,22,67,448
+Nova Scotia,Hip Fracture Repair,2014,76,26,68,388
+Nova Scotia,Hip Fracture Repair,2015,85,22,60,435
+Nova Scotia,Hip Fracture Repair,2016,85,21,56,294
+Nova Scotia,Hip Fracture Repair,2017,87.16,21,55,483
+Nova Scotia,Hip Fracture Repair,2018,91.38,19,45,429
+Nova Scotia,Hip Fracture Repair,2019,88.92,20,50,361
+Nova Scotia,Hip Fracture Repair,2020,87.7,22,52,488
+Nova Scotia,Hip Fracture Repair,2021,88.38,21,51,499
+Nova Scotia,Hip Replacement,2008,45,201,642,486
+Nova Scotia,Hip Replacement,2009,51,178,543,525
+Nova Scotia,Hip Replacement,2010,57,160,512,548
+Nova Scotia,Hip Replacement,2011,53,172,498,459
+Nova Scotia,Hip Replacement,2012,47,197,547,456
+Nova Scotia,Hip Replacement,2013,50,181,534,523
+Nova Scotia,Hip Replacement,2014,51,179,569,532
+Nova Scotia,Hip Replacement,2015,52,173,611,575
+Nova Scotia,Hip Replacement,2016,56,152,606,600
+Nova Scotia,Hip Replacement,2017,51,179,665,670
+Nova Scotia,Hip Replacement,2018,49,186,568,684
+Nova Scotia,Hip Replacement,2019,59,158,442,798
+Nova Scotia,Hip Replacement,2020,47,190,474,390
+Nova Scotia,Hip Replacement,2021,59,152,608,564
+Nova Scotia,Knee Replacement,2008,46,213,647,660
+Nova Scotia,Knee Replacement,2009,47,195,576,697
+Nova Scotia,Knee Replacement,2010,42,218,582,841
+Nova Scotia,Knee Replacement,2011,36,252,573,775
+Nova Scotia,Knee Replacement,2012,33,302,598,761
+Nova Scotia,Knee Replacement,2013,36,272,632,846
+Nova Scotia,Knee Replacement,2014,37,251,734,922
+Nova Scotia,Knee Replacement,2015,36,271,727,934
+Nova Scotia,Knee Replacement,2016,38,260,764,1001
+Nova Scotia,Knee Replacement,2017,34,283,740,968
+Nova Scotia,Knee Replacement,2018,47,194,581,1244
+Nova Scotia,Knee Replacement,2019,47,195,531,1331
+Nova Scotia,Knee Replacement,2020,31,270,652,545
+Nova Scotia,Knee Replacement,2021,50.7,179,658,946
+Nova Scotia,Lung Cancer Surgery,2013,                                   NA,29,65,100
+Nova Scotia,Lung Cancer Surgery,2014,                                   NA,34,63,119
+Nova Scotia,Lung Cancer Surgery,2015,                                   NA,47,84,133
+Nova Scotia,Lung Cancer Surgery,2016,                                   NA,60,195,19355
+Nova Scotia,Lung Cancer Surgery,2017,                                   NA,38,70,184
+Nova Scotia,Lung Cancer Surgery,2018,                                   NA,36,72,169
+Nova Scotia,Lung Cancer Surgery,2019,                                   NA,43,84,179
+Nova Scotia,Lung Cancer Surgery,2020,                                   NA,21,115,139
+Nova Scotia,Lung Cancer Surgery,2021,                                   NA,21,69,161
+Nova Scotia,MRI Scan,2009,                                   NA,48,106,6272
+Nova Scotia,MRI Scan,2010,                                   NA,45,113,9315
+Nova Scotia,MRI Scan,2011,                                   NA,53,135,7613
+Nova Scotia,MRI Scan,2012,                                   NA,61,146,15602
+Nova Scotia,MRI Scan,2013,                                   NA,43,124,15871
+Nova Scotia,MRI Scan,2014,                                   NA,62,151,17994
+Nova Scotia,MRI Scan,2015,                                   NA,63,199,17657
+Nova Scotia,MRI Scan,2016,                                   NA,60,195,19355
+Nova Scotia,MRI Scan,2017,                                   NA,48,217,20711
+Nova Scotia,MRI Scan,2018,                                   NA,60,224,20601
+Nova Scotia,MRI Scan,2019,                                   NA,49,241,21910
+Nova Scotia,MRI Scan,2020,                                   NA,40,301,12937
+Nova Scotia,MRI Scan,2021,                                   NA,79,284,19910
+Nova Scotia,Prostate Cancer Surgery,2013,                                   NA,51,98,102
+Nova Scotia,Prostate Cancer Surgery,2014,                                   NA,48,104,74
+Nova Scotia,Prostate Cancer Surgery,2015,                                   NA,46,89,56
+Nova Scotia,Prostate Cancer Surgery,2016,                                   NA,40,83,89
+Nova Scotia,Prostate Cancer Surgery,2017,                                   NA,47,116,75
+Nova Scotia,Prostate Cancer Surgery,2018,                                   NA,40,80,83
+Nova Scotia,Prostate Cancer Surgery,2019,                                   NA,55,106,91
+Nova Scotia,Prostate Cancer Surgery,2020,                                   NA,53,125,99
+Nova Scotia,Prostate Cancer Surgery,2021,                                   NA,61,115,106
+Nova Scotia,Radiation Therapy,2009,62,21,49,1330
+Nova Scotia,Radiation Therapy,2010,85,12,35,1367
+Nova Scotia,Radiation Therapy,2011,83,13,34,1376
+Nova Scotia,Radiation Therapy,2012,89,9,29,1396
+Nova Scotia,Radiation Therapy,2013,90,10,28,1373
+Nova Scotia,Radiation Therapy,2014,88,14,31,1366
+Nova Scotia,Radiation Therapy,2015,94,10,25,1439
+Nova Scotia,Radiation Therapy,2016,94,11,26,1612
+Nova Scotia,Radiation Therapy,2017,92,12,27,1493
+Nova Scotia,Radiation Therapy,2018,96,10,25,1434
+Nova Scotia,Radiation Therapy,2019,95.83,10,25,1511
+Nova Scotia,Radiation Therapy,2020,99,10,21,1518
+Nova Scotia,Radiation Therapy,2021,88.5,14,30,1600
+Ontario,Bladder Cancer Surgery,2013,                                   NA,23,61,5856
+Ontario,Bladder Cancer Surgery,2014,                                   NA,22,57,6157
+Ontario,Bladder Cancer Surgery,2015,                                   NA,24,58,5996
+Ontario,Bladder Cancer Surgery,2016,                                   NA,24,61,6094
+Ontario,Bladder Cancer Surgery,2017,                                   NA,24,64,5820
+Ontario,Bladder Cancer Surgery,2018,                                   NA,23,62,5853
+Ontario,Bladder Cancer Surgery,2019,                                   NA,23,62,5841
+Ontario,Bladder Cancer Surgery,2020,                                   NA,20,80,4799
+Ontario,Bladder Cancer Surgery,2021,                                   NA,22,62,5366
+Ontario,Breast Cancer Surgery,2013,                                   NA,17,36,5830
+Ontario,Breast Cancer Surgery,2014,                                   NA,16,33,6019
+Ontario,Breast Cancer Surgery,2015,                                   NA,16,33,5811
+Ontario,Breast Cancer Surgery,2016,                                   NA,16,33,5911
+Ontario,Breast Cancer Surgery,2017,                                   NA,15,30,5855
+Ontario,Breast Cancer Surgery,2018,                                   NA,16,31,6046
+Ontario,Breast Cancer Surgery,2019,                                   NA,16,32,6407
+Ontario,Breast Cancer Surgery,2020,                                   NA,15,37,4530
+Ontario,Breast Cancer Surgery,2021,                                   NA,16,33,6219
+Ontario,CABG,2008,100,19,56,3468
+Ontario,CABG,2009,100,7,43,3990
+Ontario,CABG,2010,100,6,41,3871
+Ontario,CABG,2011,100,6,39,3512
+Ontario,CABG,2012,                                   NA,6,36,3273
+Ontario,CABG,2013,                                   NA,6,38,3462
+Ontario,CABG,2014,                                   NA,6,43,3409
+Ontario,CABG,2015,                                   NA,6,43,3403
+Ontario,CABG,2016,                                   NA,6,49,3610
+Ontario,CABG,2017,                                   NA,7,49,3522
+Ontario,CABG,2018,                                   NA,6,43,3533
+Ontario,CABG,2019,                                   NA,6,48,3622
+Ontario,CABG,2020,                                   NA,4,58,2823
+Ontario,CABG,2021,                                   NA,6,64,3011
+Ontario,Cataract Surgery,2008,88,44,123,65616
+Ontario,Cataract Surgery,2009,92,43,104,67377
+Ontario,Cataract Surgery,2010,88,48,122,65919
+Ontario,Cataract Surgery,2011,88,45,121,66663
+Ontario,Cataract Surgery,2012,86,46,128,67349
+Ontario,Cataract Surgery,2013,81,50,153,65873
+Ontario,Cataract Surgery,2014,81,50,157,65160
+Ontario,Cataract Surgery,2015,74,62,182,64098
+Ontario,Cataract Surgery,2016,70,65,208,66098
+Ontario,Cataract Surgery,2017,68.57,67,229,64142
+Ontario,Cataract Surgery,2018,70,65,222,68522
+Ontario,Cataract Surgery,2019,72.42,63,223,69587
+Ontario,Cataract Surgery,2020,39.55,152,303,29199
+Ontario,Cataract Surgery,2021,60.41,88,286,52643
+Ontario,Colorectal Cancer Surgery,2013,                                   NA,18,41,2755
+Ontario,Colorectal Cancer Surgery,2014,                                   NA,18,39,2672
+Ontario,Colorectal Cancer Surgery,2015,                                   NA,18,39,2698
+Ontario,Colorectal Cancer Surgery,2016,                                   NA,18,39,2570
+Ontario,Colorectal Cancer Surgery,2017,                                   NA,19,40,2300
+Ontario,Colorectal Cancer Surgery,2018,                                   NA,18,39,2366
+Ontario,Colorectal Cancer Surgery,2019,                                   NA,19,41,2329
+Ontario,Colorectal Cancer Surgery,2020,                                   NA,16,43,1908
+Ontario,Colorectal Cancer Surgery,2021,                                   NA,17,37,2504
+Ontario,CT Scan,2008,                                   NA,9,40,351878
+Ontario,CT Scan,2009,                                   NA,9,42,357103
+Ontario,CT Scan,2010,                                   NA,7,35,340689
+Ontario,CT Scan,2011,                                   NA,7,34,345007
+Ontario,CT Scan,2012,                                   NA,6,32,337296
+Ontario,CT Scan,2013,                                   NA,7,33,364295
+Ontario,CT Scan,2014,                                   NA,7,30,375480
+Ontario,CT Scan,2015,                                   NA,7,37,365817
+Ontario,CT Scan,2016,                                   NA,6,41,448755
+Ontario,CT Scan,2017,                                   NA,6,35,486038
+Ontario,CT Scan,2018,                                   NA,6,39,502736
+Ontario,CT Scan,2019,                                   NA,6,50,508517
+Ontario,CT Scan,2020,                                   NA,3,63,401108
+Ontario,CT Scan,2021,                                   NA,5,41,513775
+Ontario,Hip Fracture Repair,2009,77,26,75,4921
+Ontario,Hip Fracture Repair,2010,77,26,73,5009
+Ontario,Hip Fracture Repair,2011,78,27,70,4996
+Ontario,Hip Fracture Repair,2012,82,25,64,5231
+Ontario,Hip Fracture Repair,2013,83,24,64,5498
+Ontario,Hip Fracture Repair,2014,84,24,61,5467
+Ontario,Hip Fracture Repair,2015,86,23,55,5546
+Ontario,Hip Fracture Repair,2016,85,23,57,5639
+Ontario,Hip Fracture Repair,2017,85.68,23,56,5306
+Ontario,Hip Fracture Repair,2018,87.34,24,52,5610
+Ontario,Hip Fracture Repair,2019,85.5,24,56,5601
+Ontario,Hip Fracture Repair,2020,84.43,24,59,5381
+Ontario,Hip Fracture Repair,2021,84.4,25,57,5739
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2009,69,32,46,4221
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2010,70,33,79,4467
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2011,70,33,75,4423
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2012,74,30,69,4683
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2013,76,29,70,4975
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2014,77,29,66,4948
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2015,79,28,60,5066
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2016,79,29,63,5104
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2017,79.18,28,63,4919
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2018,80,29,59,5146
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2019,78.28,30,62,5101
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2020,77.42,30,66,5061
+Ontario,Hip Fracture Repair/Emergency and Inpatient,2021,76.54,30,64,5282
+Ontario,Hip Replacement,2008,90,63,180,5348
+Ontario,Hip Replacement,2009,93,62,160,5822
+Ontario,Hip Replacement,2010,91,65,172,5823
+Ontario,Hip Replacement,2011,90,70,186,5919
+Ontario,Hip Replacement,2012,89,68,192,6256
+Ontario,Hip Replacement,2013,89,70,188,7093
+Ontario,Hip Replacement,2014,88,71,202,7323
+Ontario,Hip Replacement,2015,87,75,197,7700
+Ontario,Hip Replacement,2016,85,80,210,7953
+Ontario,Hip Replacement,2017,83.16,82,242,8217
+Ontario,Hip Replacement,2018,84,77,230,8723
+Ontario,Hip Replacement,2019,84.81,77,234,8823
+Ontario,Hip Replacement,2020,63.95,141,321,5281
+Ontario,Hip Replacement,2021,75.08,104,302,7212
+Ontario,Knee Replacement,2008,85,71,223,9922
+Ontario,Knee Replacement,2009,90,67,184,10332
+Ontario,Knee Replacement,2010,89,72,190,10250
+Ontario,Knee Replacement,2011,85,78,219,10886
+Ontario,Knee Replacement,2012,84,76,226,11547
+Ontario,Knee Replacement,2013,85,79,216,12499
+Ontario,Knee Replacement,2014,86,75,209,12480
+Ontario,Knee Replacement,2015,86,80,211,13031
+Ontario,Knee Replacement,2016,81,86,241,13880
+Ontario,Knee Replacement,2017,78.34,92,275,13801
+Ontario,Knee Replacement,2018,79,85,285,15183
+Ontario,Knee Replacement,2019,79.86,85,281,15647
+Ontario,Knee Replacement,2020,56.46,163,372,7612
+Ontario,Knee Replacement,2021,71.14,112,363,10572
+Ontario,Lung Cancer Surgery,2013,                                   NA,19,36,1540
+Ontario,Lung Cancer Surgery,2014,                                   NA,18,34,1476
+Ontario,Lung Cancer Surgery,2015,                                   NA,18,32,1658
+Ontario,Lung Cancer Surgery,2016,                                   NA,17,34,1553
+Ontario,Lung Cancer Surgery,2017,                                   NA,16,35,1687
+Ontario,Lung Cancer Surgery,2018,                                   NA,19,40,1513
+Ontario,Lung Cancer Surgery,2019,                                   NA,19,40,1546
+Ontario,Lung Cancer Surgery,2020,                                   NA,18,49,1295
+Ontario,Lung Cancer Surgery,2021,                                   NA,20,44,1388
+Ontario,MRI Scan,2008,                                   NA,30,95,203609
+Ontario,MRI Scan,2009,                                   NA,40,105,222720
+Ontario,MRI Scan,2010,                                   NA,36,118,234800
+Ontario,MRI Scan,2011,                                   NA,34,94,256348
+Ontario,MRI Scan,2012,                                   NA,29,86,266893
+Ontario,MRI Scan,2013,                                   NA,23,60,291633
+Ontario,MRI Scan,2014,                                   NA,29,73,299918
+Ontario,MRI Scan,2015,                                   NA,36,91,306561
+Ontario,MRI Scan,2016,                                   NA,33,99,347657
+Ontario,MRI Scan,2017,                                   NA,35,96,355639
+Ontario,MRI Scan,2018,                                   NA,35,96,360689
+Ontario,MRI Scan,2019,                                   NA,35,114,356584
+Ontario,MRI Scan,2020,                                   NA,26,173,246448
+Ontario,MRI Scan,2021,                                   NA,29,111,358935
+Ontario,Prostate Cancer Surgery,2013,                                   NA,35,84,1545
+Ontario,Prostate Cancer Surgery,2014,                                   NA,36,85,1472
+Ontario,Prostate Cancer Surgery,2015,                                   NA,36,78,1479
+Ontario,Prostate Cancer Surgery,2016,                                   NA,38,82,1566
+Ontario,Prostate Cancer Surgery,2017,                                   NA,34,84,1431
+Ontario,Prostate Cancer Surgery,2018,                                   NA,37,107,1424
+Ontario,Prostate Cancer Surgery,2019,                                   NA,40,113,1326
+Ontario,Prostate Cancer Surgery,2020,                                   NA,41,131,1042
+Ontario,Prostate Cancer Surgery,2021,                                   NA,41,96,1013
+Ontario,Radiation Therapy,2008,90,11,29,13177
+Ontario,Radiation Therapy,2009,96,7,21,13352
+Ontario,Radiation Therapy,2010,97,7,20,13633
+Ontario,Radiation Therapy,2011,97,7,18,14738
+Ontario,Radiation Therapy,2012,98,7,15,14282
+Ontario,Radiation Therapy,2013,98,6,14,15186
+Ontario,Radiation Therapy,2014,99,7,14,14917
+Ontario,Radiation Therapy,2015,99,7,14,15652
+Ontario,Radiation Therapy,2016,99,7,15,15972
+Ontario,Radiation Therapy,2017,98.3,8,15,15740
+Ontario,Radiation Therapy,2018,98.09,8,16,16949
+Ontario,Radiation Therapy,2019,98.21,9,18,17454
+Ontario,Radiation Therapy,2020,98,9,16,16121
+Ontario,Radiation Therapy,2021,98.08,10,17,17725
+Prince Edward Island,Bladder Cancer Surgery,2013,                                   NA,24,67,41
+Prince Edward Island,Bladder Cancer Surgery,2014,                                   NA,26,62,28
+Prince Edward Island,Bladder Cancer Surgery,2015,                                   NA,37,65,28
+Prince Edward Island,Bladder Cancer Surgery,2016,                                   NA,24,54,16
+Prince Edward Island,Bladder Cancer Surgery,2017,                                   NA,31,59,26
+Prince Edward Island,Bladder Cancer Surgery,2018,                                   NA,28,69,47
+Prince Edward Island,Bladder Cancer Surgery,2019,                                   NA,34,68,37
+Prince Edward Island,Bladder Cancer Surgery,2020,                                   NA,19,65,47
+Prince Edward Island,Bladder Cancer Surgery,2021,                                   NA,19,46,39
+Prince Edward Island,Breast Cancer Surgery,2013,                                   NA,18,35,46
+Prince Edward Island,Breast Cancer Surgery,2014,                                   NA,22,40,64
+Prince Edward Island,Breast Cancer Surgery,2015,                                   NA,18,26,59
+Prince Edward Island,Breast Cancer Surgery,2016,                                   NA,16,27,50
+Prince Edward Island,Breast Cancer Surgery,2017,                                   NA,15,33,36
+Prince Edward Island,Breast Cancer Surgery,2018,                                   NA,16,28,66
+Prince Edward Island,Breast Cancer Surgery,2019,                                   NA,15,32,58
+Prince Edward Island,Breast Cancer Surgery,2020,                                   NA,11,30,47
+Prince Edward Island,Breast Cancer Surgery,2021,                                   NA,20,41,46
+Prince Edward Island,Cataract Surgery,2008,60,78,180,477
+Prince Edward Island,Cataract Surgery,2009,80,67,163,548
+Prince Edward Island,Cataract Surgery,2010,80.4,64,134,465
+Prince Edward Island,Cataract Surgery,2011,65.9,86,171,414
+Prince Edward Island,Cataract Surgery,2012,63.2,70,218,416
+Prince Edward Island,Cataract Surgery,2013,53.3,98,241,539
+Prince Edward Island,Cataract Surgery,2014,46.1,118,190,532
+Prince Edward Island,Cataract Surgery,2015,81.6,57,183,554
+Prince Edward Island,Cataract Surgery,2016,88.5,71,118,486
+Prince Edward Island,Cataract Surgery,2017,60,99,167,577
+Prince Edward Island,Cataract Surgery,2018,47.9,118,302,603
+Prince Edward Island,Cataract Surgery,2019,28,167,356,753
+Prince Edward Island,Cataract Surgery,2020,15.8,230,467,628
+Prince Edward Island,Cataract Surgery,2021,30.5,162,324,725
+Prince Edward Island,Colorectal Cancer Surgery,2013,                                   NA,20,44,48
+Prince Edward Island,Colorectal Cancer Surgery,2014,                                   NA,28,54,31
+Prince Edward Island,Colorectal Cancer Surgery,2015,                                   NA,22,38,39
+Prince Edward Island,Colorectal Cancer Surgery,2016,                                   NA,17,43,45
+Prince Edward Island,Colorectal Cancer Surgery,2017,                                   NA,14,30,41
+Prince Edward Island,Colorectal Cancer Surgery,2018,                                   NA,16,33,80
+Prince Edward Island,Colorectal Cancer Surgery,2019,                                   NA,20,60,35
+Prince Edward Island,Colorectal Cancer Surgery,2020,                                   NA,14,30,52
+Prince Edward Island,Colorectal Cancer Surgery,2021,                                   NA,21,54,24
+Prince Edward Island,CT Scan,2008,                                   NA,22,88,3172
+Prince Edward Island,CT Scan,2009,                                   NA,7,34,3463
+Prince Edward Island,CT Scan,2010,                                   NA,12,29,3294
+Prince Edward Island,CT Scan,2011,                                   NA,8,29,3201
+Prince Edward Island,CT Scan,2012,                                   NA,15,34,3161
+Prince Edward Island,CT Scan,2013,                                   NA,23,45,3176
+Prince Edward Island,CT Scan,2014,                                   NA,23,46,2867
+Prince Edward Island,CT Scan,2015,                                   NA,30,61,3556
+Prince Edward Island,CT Scan,2016,                                   NA,34,71,3671
+Prince Edward Island,CT Scan,2017,                                   NA,44,113,4400
+Prince Edward Island,CT Scan,2018,                                   NA,18,37,4608
+Prince Edward Island,CT Scan,2019,                                   NA,27,62,4452
+Prince Edward Island,CT Scan,2020,                                   NA,15,166,5769
+Prince Edward Island,CT Scan,2021,                                   NA,27,106,4731
+Prince Edward Island,Hip Fracture Repair,2010,74,26,71,62
+Prince Edward Island,Hip Fracture Repair,2011,81,23,58,32
+Prince Edward Island,Hip Fracture Repair,2012,73,21,60,30
+Prince Edward Island,Hip Fracture Repair,2013,75,31,75,99
+Prince Edward Island,Hip Fracture Repair,2014,63,41,63,24
+Prince Edward Island,Hip Fracture Repair,2015,77,24,55,60
+Prince Edward Island,Hip Fracture Repair,2016,76,24,65,45
+Prince Edward Island,Hip Fracture Repair,2017,85.37,24,52,82
+Prince Edward Island,Hip Fracture Repair,2018,83.78,21,69,37
+Prince Edward Island,Hip Fracture Repair,2019,93.94,16,44,66
+Prince Edward Island,Hip Fracture Repair,2020,97.22,12,26,72
+Prince Edward Island,Hip Fracture Repair,2021,95,17,41,60
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2013,80,23,64,81
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2014,77,28,60,86
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2015,74,31,62,54
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2016,84,25,52,64
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2017,86.5,22,51,74
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2018,86,25,50,57
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2019,94,16,42,71
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2020,96.9,10,29,65
+Prince Edward Island,Hip Fracture Repair/Emergency and Inpatient,2021,93.5,18,45,62
+Prince Edward Island,Hip Replacement,2008,71,110,356,59
+Prince Edward Island,Hip Replacement,2009,84,105,197,56
+Prince Edward Island,Hip Replacement,2010,90,62,205,41
+Prince Edward Island,Hip Replacement,2011,71,112,276,70
+Prince Edward Island,Hip Replacement,2012,52,173,313,84
+Prince Edward Island,Hip Replacement,2013,80,121,252,78
+Prince Edward Island,Hip Replacement,2014,81,56,228,101
+Prince Edward Island,Hip Replacement,2015,85,92,245,83
+Prince Edward Island,Hip Replacement,2016,67,133,281,86
+Prince Edward Island,Hip Replacement,2017,50,182,258,76
+Prince Edward Island,Hip Replacement,2018,48.6,190,305,109
+Prince Edward Island,Hip Replacement,2019,66,138,333,106
+Prince Edward Island,Hip Replacement,2020,56.3,156,463,119
+Prince Edward Island,Hip Replacement,2021,56.3,162,348,142
+Prince Edward Island,Knee Replacement,2008,75,108,345,105
+Prince Edward Island,Knee Replacement,2009,69,137,309,111
+Prince Edward Island,Knee Replacement,2010,73,127,316,99
+Prince Edward Island,Knee Replacement,2011,55,171,297,112
+Prince Edward Island,Knee Replacement,2012,35,225,362,147
+Prince Edward Island,Knee Replacement,2013,61,148,324,173
+Prince Edward Island,Knee Replacement,2014,70,126,300,153
+Prince Edward Island,Knee Replacement,2015,83,112,229,139
+Prince Edward Island,Knee Replacement,2016,67,146,251,145
+Prince Edward Island,Knee Replacement,2017,46.2,195,312,145
+Prince Edward Island,Knee Replacement,2018,26.1,242,368,176
+Prince Edward Island,Knee Replacement,2019,28.4,246,341,176
+Prince Edward Island,Knee Replacement,2020,32.4,315,503,185
+Prince Edward Island,Knee Replacement,2021,46.2,204,413,279
+Prince Edward Island,MRI Scan,2008,                                   NA,79,199,1391
+Prince Edward Island,MRI Scan,2009,                                   NA,111,182,1473
+Prince Edward Island,MRI Scan,2010,                                   NA,77,160,1877
+Prince Edward Island,MRI Scan,2011,                                   NA,32,86,1984
+Prince Edward Island,MRI Scan,2012,                                   NA,41,143,2045
+Prince Edward Island,MRI Scan,2013,                                   NA,58,135,2092
+Prince Edward Island,MRI Scan,2014,                                   NA,71,172,1857
+Prince Edward Island,MRI Scan,2015,                                   NA,56,167,1748
+Prince Edward Island,MRI Scan,2016,                                   NA,52,181,1911
+Prince Edward Island,MRI Scan,2017,                                   NA,80,231,2645
+Prince Edward Island,MRI Scan,2018,                                   NA,40,127,2441
+Prince Edward Island,MRI Scan,2019,                                   NA,45,210,2253
+Prince Edward Island,MRI Scan,2020,                                   NA,35,234,2368
+Prince Edward Island,MRI Scan,2021,                                   NA,34,214,2405
+Prince Edward Island,Prostate Cancer Surgery,2013,                                   NA,54,77,7
+Prince Edward Island,Prostate Cancer Surgery,2014,                                   NA,27,94,10
+Prince Edward Island,Radiation Therapy,2008,100,7,19,198
+Prince Edward Island,Radiation Therapy,2009,95,9,23,199
+Prince Edward Island,Radiation Therapy,2010,97,14,23,215
+Prince Edward Island,Radiation Therapy,2011,96,13,23,228
+Prince Edward Island,Radiation Therapy,2012,99,12,22,186
+Prince Edward Island,Radiation Therapy,2013,92,15,28,216
+Prince Edward Island,Radiation Therapy,2014,90,14,28,247
+Prince Edward Island,Radiation Therapy,2015,98,12,24,224
+Prince Edward Island,Radiation Therapy,2016,95,12,25,245
+Prince Edward Island,Radiation Therapy,2017,92,13,28,275
+Prince Edward Island,Radiation Therapy,2018,100,8,19,220
+Prince Edward Island,Radiation Therapy,2019,99.2,10,21,265
+Prince Edward Island,Radiation Therapy,2020,98.3,12,20,240
+Prince Edward Island,Radiation Therapy,2021,99.2,12,20,243
+Quebec,Bladder Cancer Surgery,2013,                                   NA,28,63,2639
+Quebec,Bladder Cancer Surgery,2014,                                   NA,27,56,2718
+Quebec,Bladder Cancer Surgery,2015,                                   NA,26,63,2719
+Quebec,Bladder Cancer Surgery,2016,                                   NA,27,60,2954
+Quebec,Bladder Cancer Surgery,2017,                                   NA,26,54,3013
+Quebec,Bladder Cancer Surgery,2018,                                   NA,26,52,3173
+Quebec,Bladder Cancer Surgery,2019,                                   NA,26,50,3148
+Quebec,Bladder Cancer Surgery,2020,                                   NA,24,57,2765
+Quebec,Bladder Cancer Surgery,2021,                                   NA,27,57,3232
+Quebec,Breast Cancer Surgery,2013,                                   NA,20,54,4286
+Quebec,Breast Cancer Surgery,2014,                                   NA,27,56,4142
+Quebec,Breast Cancer Surgery,2015,                                   NA,21,46,4119
+Quebec,Breast Cancer Surgery,2016,                                   NA,19,43,4157
+Quebec,Breast Cancer Surgery,2017,                                   NA,19,38,4000
+Quebec,Breast Cancer Surgery,2018,                                   NA,19,30,4033
+Quebec,Breast Cancer Surgery,2019,                                   NA,20,42,4102
+Quebec,Breast Cancer Surgery,2020,                                   NA,18,42,3207
+Quebec,Breast Cancer Surgery,2021,                                   NA,22,45,3802
+Quebec,Cataract Surgery,2008,82,42,155,33263
+Quebec,Cataract Surgery,2009,87,37,130,37720
+Quebec,Cataract Surgery,2010,87,36,126,38786
+Quebec,Cataract Surgery,2011,88,34,122,41137
+Quebec,Cataract Surgery,2012,88,35,123,45731
+Quebec,Cataract Surgery,2013,88,31,126,48965
+Quebec,Cataract Surgery,2014,88,32,129,46829
+Quebec,Cataract Surgery,2015,88,35,126,45079
+Quebec,Cataract Surgery,2016,86,55,130,45716
+Quebec,Cataract Surgery,2017,85,41,139,45660
+Quebec,Cataract Surgery,2018,82.9,41,151,46767
+Quebec,Cataract Surgery,2019,82.3,42,145,47769
+Quebec,Cataract Surgery,2020,53.5,99,248,20890
+Quebec,Cataract Surgery,2021,68.3,65,231,38955
+Quebec,Colorectal Cancer Surgery,2013,                                   NA,20,50,2329
+Quebec,Colorectal Cancer Surgery,2014,                                   NA,21,49,2206
+Quebec,Colorectal Cancer Surgery,2015,                                   NA,22,50,2206
+Quebec,Colorectal Cancer Surgery,2016,                                   NA,21,42,2132
+Quebec,Colorectal Cancer Surgery,2017,                                   NA,20,40,1972
+Quebec,Colorectal Cancer Surgery,2018,                                   NA,21,43,2008
+Quebec,Colorectal Cancer Surgery,2019,                                   NA,21,42,1886
+Quebec,Colorectal Cancer Surgery,2020,                                   NA,19,44,1319
+Quebec,Colorectal Cancer Surgery,2021,                                   NA,22,44,1580
+Quebec,Hip Replacement,2008,90,69,182,1857
+Quebec,Hip Replacement,2009,90,66,183,2185
+Quebec,Hip Replacement,2010,88,72,203,1989
+Quebec,Hip Replacement,2011,82,86,233,2408
+Quebec,Hip Replacement,2012,79,84,244,2873
+Quebec,Hip Replacement,2013,81,85,239,3021
+Quebec,Hip Replacement,2014,84,83,229,3093
+Quebec,Hip Replacement,2015,85,82,218,3264
+Quebec,Hip Replacement,2016,85,83,214,3381
+Quebec,Hip Replacement,2017,83.1,93,215,3373
+Quebec,Hip Replacement,2018,80,97,238,3756
+Quebec,Hip Replacement,2019,75.9,105,249,3756
+Quebec,Hip Replacement,2020,55.7,163,342,2193
+Quebec,Hip Replacement,2021,51.9,176,440,3495
+Quebec,Knee Replacement,2008,86,85,211,2605
+Quebec,Knee Replacement,2009,85,85,214,3018
+Quebec,Knee Replacement,2010,83,96,225,3518
+Quebec,Knee Replacement,2011,78,99,246,3792
+Quebec,Knee Replacement,2012,76,102,253,4644
+Quebec,Knee Replacement,2013,78,96,258,4766
+Quebec,Knee Replacement,2014,81,88,237,4852
+Quebec,Knee Replacement,2015,80,94,247,5081
+Quebec,Knee Replacement,2016,80,97,243,5329
+Quebec,Knee Replacement,2017,79.6,101,228,5200
+Quebec,Knee Replacement,2018,76.6,116,244,5380
+Quebec,Knee Replacement,2019,72.2,118,269,5297
+Quebec,Knee Replacement,2020,43.4,202,354,2408
+Quebec,Knee Replacement,2021,44.3,206,491,4232
+Quebec,Lung Cancer Surgery,2013,                                   NA,20,62,1305
+Quebec,Lung Cancer Surgery,2014,                                   NA,22,59,1245
+Quebec,Lung Cancer Surgery,2015,                                   NA,22,63,1306
+Quebec,Lung Cancer Surgery,2016,                                   NA,21,57,1382
+Quebec,Lung Cancer Surgery,2017,                                   NA,21,50,1278
+Quebec,Lung Cancer Surgery,2018,                                   NA,25,53,1363
+Quebec,Lung Cancer Surgery,2019,                                   NA,27,55,1378
+Quebec,Lung Cancer Surgery,2020,                                   NA,24,64,1136
+Quebec,Lung Cancer Surgery,2021,                                   NA,25,57,1158
+Quebec,Prostate Cancer Surgery,2013,                                   NA,39,89,1121
+Quebec,Prostate Cancer Surgery,2014,                                   NA,34,85,901
+Quebec,Prostate Cancer Surgery,2015,                                   NA,34,85,801
+Quebec,Prostate Cancer Surgery,2016,                                   NA,36,86,745
+Quebec,Prostate Cancer Surgery,2017,                                   NA,35,85,865
+Quebec,Prostate Cancer Surgery,2018,                                   NA,41,91,779
+Quebec,Prostate Cancer Surgery,2019,                                   NA,40,95,759
+Quebec,Prostate Cancer Surgery,2020,                                   NA,42,107,703
+Quebec,Prostate Cancer Surgery,2021,                                   NA,36,78,707
+Saskatchewan,Bladder Cancer Surgery,2013,                                   NA,16,34,229
+Saskatchewan,Bladder Cancer Surgery,2014,                                   NA,15,27,223
+Saskatchewan,Bladder Cancer Surgery,2015,                                   NA,16,29,233
+Saskatchewan,Bladder Cancer Surgery,2016,                                   NA,15,37,276
+Saskatchewan,Bladder Cancer Surgery,2017,                                   NA,18,30,254
+Saskatchewan,Bladder Cancer Surgery,2018,                                   NA,16,28,259
+Saskatchewan,Bladder Cancer Surgery,2019,                                   NA,16,31,317
+Saskatchewan,Bladder Cancer Surgery,2020,                                   NA,15,25,242
+Saskatchewan,Bladder Cancer Surgery,2021,                                   NA,16,29,307
+Saskatchewan,Breast Cancer Surgery,2013,                                   NA,17,47,344
+Saskatchewan,Breast Cancer Surgery,2014,                                   NA,14,33,356
+Saskatchewan,Breast Cancer Surgery,2015,                                   NA,18,35,397
+Saskatchewan,Breast Cancer Surgery,2016,                                   NA,19,40,388
+Saskatchewan,Breast Cancer Surgery,2017,                                   NA,21,42,332
+Saskatchewan,Breast Cancer Surgery,2018,                                   NA,16,34,373
+Saskatchewan,Breast Cancer Surgery,2019,                                   NA,19,36,396
+Saskatchewan,Breast Cancer Surgery,2020,                                   NA,12,30,317
+Saskatchewan,Breast Cancer Surgery,2021,                                   NA,19,35,387
+Saskatchewan,CABG,2008,98,4,69,309
+Saskatchewan,CABG,2009,97,5,90,329
+Saskatchewan,CABG,2010,100,4,25,312
+Saskatchewan,CABG,2011,100,3,27,255
+Saskatchewan,CABG,2012,                                   NA,4,19,244
+Saskatchewan,CABG,2013,                                   NA,3,19,253
+Saskatchewan,CABG,2014,                                   NA,3,13,218
+Saskatchewan,CABG,2015,                                   NA,4,13,207
+Saskatchewan,CABG,2016,                                   NA,3,25,206
+Saskatchewan,CABG,2017,                                   NA,3,22,181
+Saskatchewan,CABG,2018,                                   NA,3,17,191
+Saskatchewan,CABG,2019,                                   NA,4,35,177
+Saskatchewan,CABG,2020,                                   NA,4,94,120
+Saskatchewan,CABG,2021,                                   NA,6,84,109
+Saskatchewan,Cataract Surgery,2008,48,118,334,3423
+Saskatchewan,Cataract Surgery,2009,59,95,350,3249
+Saskatchewan,Cataract Surgery,2010,62,81,252,3196
+Saskatchewan,Cataract Surgery,2011,58,90,242,3020
+Saskatchewan,Cataract Surgery,2012,57,96,229,3109
+Saskatchewan,Cataract Surgery,2013,70,67,179,3573
+Saskatchewan,Cataract Surgery,2014,88,40,119,3850
+Saskatchewan,Cataract Surgery,2015,96,35,92,3567
+Saskatchewan,Cataract Surgery,2016,79,60,142,3509
+Saskatchewan,Cataract Surgery,2017,76.84,59,175,3783
+Saskatchewan,Cataract Surgery,2018,61.82,81,203,3981
+Saskatchewan,Cataract Surgery,2019,60.6,85,235,4091
+Saskatchewan,Cataract Surgery,2020,40.24,142,314,2624
+Saskatchewan,Cataract Surgery,2021,63.49,84,251,4155
+Saskatchewan,Colorectal Cancer Surgery,2013,                                   NA,14,35,282
+Saskatchewan,Colorectal Cancer Surgery,2014,                                   NA,15,35,263
+Saskatchewan,Colorectal Cancer Surgery,2015,                                   NA,16,38,227
+Saskatchewan,Colorectal Cancer Surgery,2016,                                   NA,19,51,238
+Saskatchewan,Colorectal Cancer Surgery,2017,                                   NA,19,39,213
+Saskatchewan,Colorectal Cancer Surgery,2018,                                   NA,16,37,184
+Saskatchewan,Colorectal Cancer Surgery,2019,                                   NA,16,35,179
+Saskatchewan,Colorectal Cancer Surgery,2020,                                   NA,15,34,148
+Saskatchewan,Colorectal Cancer Surgery,2021,                                   NA,20,40,180
+Saskatchewan,CT Scan,2010,                                   NA,22,70,9389
+Saskatchewan,CT Scan,2011,                                   NA,10,39,9422
+Saskatchewan,CT Scan,2013,                                   NA,13,51,12148
+Saskatchewan,CT Scan,2015,                                   NA,21,52,19799
+Saskatchewan,CT Scan,2016,                                   NA,19,62,23595
+Saskatchewan,CT Scan,2017,                                   NA,17,58,22721
+Saskatchewan,CT Scan,2018,                                   NA,19,58,24028
+Saskatchewan,CT Scan,2019,                                   NA,25,71,24956
+Saskatchewan,CT Scan,2020,                                   NA,20,118,18823
+Saskatchewan,CT Scan,2021,                                   NA,26,105,21633
+Saskatchewan,Hip Fracture Repair,2009,75,26,84,365
+Saskatchewan,Hip Fracture Repair,2010,72,33,88,507
+Saskatchewan,Hip Fracture Repair,2011,84,22,67,438
+Saskatchewan,Hip Fracture Repair,2012,79,24,74,337
+Saskatchewan,Hip Fracture Repair,2013,82,24,67,424
+Saskatchewan,Hip Fracture Repair,2014,79,24,68,345
+Saskatchewan,Hip Fracture Repair,2015,80,25,65,532
+Saskatchewan,Hip Fracture Repair,2016,79,30,80,481
+Saskatchewan,Hip Fracture Repair,2017,81.9,27,60,442
+Saskatchewan,Hip Fracture Repair,2018,78.5,33,65,507
+Saskatchewan,Hip Fracture Repair,2019,83.49,27,62,527
+Saskatchewan,Hip Fracture Repair,2020,85.63,27,61,515
+Saskatchewan,Hip Fracture Repair,2021,82.53,28,64,521
+Saskatchewan,Hip Replacement,2008,56,157,482,497
+Saskatchewan,Hip Replacement,2009,64,131,403,570
+Saskatchewan,Hip Replacement,2010,69,110,401,517
+Saskatchewan,Hip Replacement,2011,75,102,324,556
+Saskatchewan,Hip Replacement,2012,69,120,366,589
+Saskatchewan,Hip Replacement,2013,77,99,243,782
+Saskatchewan,Hip Replacement,2014,93,63,158,738
+Saskatchewan,Hip Replacement,2015,100,53,128,794
+Saskatchewan,Hip Replacement,2016,80,84,225,708
+Saskatchewan,Hip Replacement,2017,75.59,98,280,762
+Saskatchewan,Hip Replacement,2018,66.13,117,322,800
+Saskatchewan,Hip Replacement,2019,47.37,194,381,874
+Saskatchewan,Hip Replacement,2020,40.48,236,482,462
+Saskatchewan,Hip Replacement,2021,42.65,234,639,687
+Saskatchewan,Knee Replacement,2008,37,246,613,818
+Saskatchewan,Knee Replacement,2009,48,194,463,1086
+Saskatchewan,Knee Replacement,2010,61,135,428,838
+Saskatchewan,Knee Replacement,2011,62,139,357,973
+Saskatchewan,Knee Replacement,2012,55,165,420,1061
+Saskatchewan,Knee Replacement,2013,66,128,354,1501
+Saskatchewan,Knee Replacement,2014,89,70,193,1417
+Saskatchewan,Knee Replacement,2015,99,62,130,1202
+Saskatchewan,Knee Replacement,2016,73,109,240,1139
+Saskatchewan,Knee Replacement,2017,60.98,142,310,1289
+Saskatchewan,Knee Replacement,2018,55.95,168,355,1310
+Saskatchewan,Knee Replacement,2019,38.81,255,410,1358
+Saskatchewan,Knee Replacement,2020,28.3,302,514,643
+Saskatchewan,Knee Replacement,2021,30.23,416,695,913
+Saskatchewan,Lung Cancer Surgery,2013,                                   NA,7,20,72
+Saskatchewan,Lung Cancer Surgery,2014,                                   NA,14,26,75
+Saskatchewan,Lung Cancer Surgery,2015,                                   NA,15,27,54
+Saskatchewan,Lung Cancer Surgery,2016,                                   NA,13,28,71
+Saskatchewan,Lung Cancer Surgery,2017,                                   NA,16,66,63
+Saskatchewan,Lung Cancer Surgery,2018,                                   NA,13,26,58
+Saskatchewan,Lung Cancer Surgery,2019,                                   NA,14,32,80
+Saskatchewan,Lung Cancer Surgery,2020,                                   NA,15,34,67
+Saskatchewan,Lung Cancer Surgery,2021,                                   NA,18,41,56
+Saskatchewan,MRI Scan,2010,                                   NA,31,99,8776
+Saskatchewan,MRI Scan,2011,                                   NA,48,148,8766
+Saskatchewan,MRI Scan,2013,                                   NA,28,88,12100
+Saskatchewan,MRI Scan,2015,                                   NA,31,150,11675
+Saskatchewan,MRI Scan,2016,                                   NA,47,210,11514
+Saskatchewan,MRI Scan,2017,                                   NA,33,179,12258
+Saskatchewan,MRI Scan,2018,                                   NA,32,184,12377
+Saskatchewan,MRI Scan,2019,                                   NA,46,246,12164
+Saskatchewan,MRI Scan,2020,                                   NA,30,215,8751
+Saskatchewan,MRI Scan,2021,                                   NA,30,192,12742
+Saskatchewan,Prostate Cancer Surgery,2013,                                   NA,51,136,108
+Saskatchewan,Prostate Cancer Surgery,2014,                                   NA,43,105,79
+Saskatchewan,Prostate Cancer Surgery,2015,                                   NA,48,138,110
+Saskatchewan,Prostate Cancer Surgery,2016,                                   NA,47,101,105
+Saskatchewan,Prostate Cancer Surgery,2017,                                   NA,50,204,82
+Saskatchewan,Prostate Cancer Surgery,2018,                                   NA,42,94,74
+Saskatchewan,Prostate Cancer Surgery,2019,                                   NA,43,146,80
+Saskatchewan,Prostate Cancer Surgery,2020,                                   NA,41,108,78
+Saskatchewan,Prostate Cancer Surgery,2021,                                   NA,44,157,89
+Saskatchewan,Radiation Therapy,2008,81,14,36,781
+Saskatchewan,Radiation Therapy,2009,97,8,22,832
+Saskatchewan,Radiation Therapy,2010,97,6,20,891
+Saskatchewan,Radiation Therapy,2011,99,6,17,998
+Saskatchewan,Radiation Therapy,2012,98,4,15,992
+Saskatchewan,Radiation Therapy,2013,98,5,15,1029
+Saskatchewan,Radiation Therapy,2014,97,7,16,1081
+Saskatchewan,Radiation Therapy,2015,97,8,20,1001
+Saskatchewan,Radiation Therapy,2016,97,7,18,1105
+Saskatchewan,Radiation Therapy,2017,97,7,15,1031
+Saskatchewan,Radiation Therapy,2018,97,7,18,1052
+Saskatchewan,Radiation Therapy,2019,97,8,20,1079
+Saskatchewan,Radiation Therapy,2020,97,7,21,1173
+Saskatchewan,Radiation Therapy,2021,98,7,19,1202

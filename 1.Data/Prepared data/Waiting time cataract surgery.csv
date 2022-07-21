@@ -1,0 +1,13 @@
+state,medical_procedure,year,%meeting_benchmark,50th_percentile_days,90th_percentile_days,total_cases
+Canada,Cataract Surgery,2010,82.72,52,147,157278
+Canada,Cataract Surgery,2011,82.48,49,149,161524
+Canada,Cataract Surgery,2012,83.32,47,145,166596
+Canada,Cataract Surgery,2013,81.37,47,154,170160
+Canada,Cataract Surgery,2014,80.12,49,161,168072
+Canada,Cataract Surgery,2015,75.6,58,179,165133
+Canada,Cataract Surgery,2016,72.5,68,194,170016
+Canada,Cataract Surgery,2017,70.89,66,211,169667
+Canada,Cataract Surgery,2018,70.1,65,218,177463
+Canada,Cataract Surgery,2019,70.48,67,219,183017
+Canada,Cataract Surgery,2020,44.91,133,310,96706
+Canada,Cataract Surgery,2021,66.18,72,255,164083
