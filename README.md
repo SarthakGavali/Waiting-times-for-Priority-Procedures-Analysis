@@ -25,3 +25,5 @@ healthreports@cihi.ca
 This data is provided to facilitate your research and analysis. Wait times for hip fracture repair are calculated using the Discharge Abstract Database (DAD) and National Ambulatory Care Reporting System (NACRS) at the Canadian Institute for Health Information (CIHI). For all other procedures, aggregate wait time results are submitted to CIHI by provincial ministries and agencies. For detailed information on wait time definitions, please refer to the wait times metadata page (see link below).
 • Wait times metadata
 https://www.cihi.ca/en/wait-time-metadata
+## Link to Tableau storyboard:
+https://public.tableau.com/app/profile/sarthak.gavali/viz/WaitingTimesForPriorityProceduresInCanadaAnalysisInsights/Story1
